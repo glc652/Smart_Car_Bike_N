@@ -1,0 +1,1986 @@
+	; Module start
+	.compiler_version	"TASKING VX-toolset for AURIX Development Studio (non-commercial): C compiler v1.1r8 Build 22011964"
+	.compiler_invocation	"ctc -f cc10172a --dep-file=code/flash.d -c99 --fp-model=3cflnrSTz -D__CPU__=tc26xb -D__CPU_TC26XB__ --core=tc1.6.x --fp-model=+float -D__CPU__=tc26xb -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\code -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\Configurations -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\Infra -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\Infra\\\\Platform -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\Infra\\\\Platform\\\\Tricore -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\Infra\\\\Platform\\\\Tricore\\\\Compilers -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\Infra\\\\Sfr -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\Infra\\\\Sfr\\\\TC26B -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\Infra\\\\Sfr\\\\TC26B\\\\_Reg -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\Service -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\Service\\\\CpuGeneric -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\Service\\\\CpuGeneric\\\\If -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\Service\\\\CpuGeneric\\\\If\\\\Ccu6If -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\Service\\\\CpuGeneric\\\\StdIf -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\Service\\\\CpuGeneric\\\\SysSe -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\Service\\\\CpuGeneric\\\\SysSe\\\\Bsp -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\Service\\\\CpuGeneric\\\\SysSe\\\\Math -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\Service\\\\CpuGeneric\\\\_Utilities -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Asclin -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Asclin\\\\Asc -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Asclin\\\\Std -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Ccu6 -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Ccu6\\\\Std -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Ccu6\\\\Timer -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Cpu -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Cpu\\\\CStart -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Cpu\\\\Irq -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Cpu\\\\Std -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Dma -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Dma\\\\Dma -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Dma\\\\Std -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Flash -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Flash\\\\Std -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Gpt12 -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Gpt12\\\\IncrEnc -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Gpt12\\\\Std -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Gtm -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Gtm\\\\Atom -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Gtm\\\\Atom\\\\Pwm -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Gtm\\\\Std -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Mtu -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Mtu\\\\Std -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Port -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Port\\\\Std -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Qspi -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Qspi\\\\SpiMaster -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Qspi\\\\Std -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Scu -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Scu\\\\Std -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Src -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Src\\\\Std -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Stm -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Stm\\\\Std -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Vadc -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Vadc\\\\Adc -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Vadc\\\\Std -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\_Impl -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\_Lib -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\_Lib\\\\DataHandling -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\_PinMap -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\zf_common -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\zf_components -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\zf_device -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\zf_driver -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\user -g2 -w544 -w557 -t4 --language=+volatile -N0 -O0 -Y0 -Z0 --compact-max-size=200 --misrac-version=2004 -o code/flash.src ../code/flash.c"
+	.compiler_name		"ctc"
+	;source	'../code/flash.c'
+
+	
+$TC16X
+	
+	.sdecl	'.text.flash.write_float',code,cluster('write_float')
+	.sect	'.text.flash.write_float'
+	.align	2
+	
+	.global	write_float
+; Function write_float
+.L36:
+write_float:	.type	func
+	mov	d15,d4
+.L124:
+	mov	d8,d5
+.L125:
+	call	flash_buffer_clear
+.L123:
+	movh.a	a15,#@his(flash_union_buffer)
+	lea	a15,[a15]@los(flash_union_buffer)
+.L196:
+	st.w	[a15],d15
+.L197:
+	mov	d4,#0
+.L198:
+	mov	d5,d8
+.L126:
+	call	flash_check
+.L127:
+	jeq	d2,#0,.L2
+.L199:
+	mov	d4,#0
+.L200:
+	mov	d5,d8
+.L128:
+	call	flash_erase_page
+.L2:
+	mov	d4,#0
+.L201:
+	mov	d5,d8
+.L129:
+	call	flash_write_page_from_buffer
+.L130:
+	ret
+.L88:
+	
+__write_float_function_end:
+	.size	write_float,__write_float_function_end-write_float
+.L57:
+	; End of function
+	
+	.sdecl	'.text.flash.read_float',code,cluster('read_float')
+	.sect	'.text.flash.read_float'
+	.align	2
+	
+	.global	read_float
+; Function read_float
+.L38:
+read_float:	.type	func
+	mov.aa	a15,a4
+.L133:
+	mov	d15,d4
+.L134:
+	mov	d4,#0
+.L132:
+	mov	d5,d15
+.L136:
+	call	flash_check
+.L131:
+	jeq	d2,#0,.L3
+.L206:
+	call	flash_buffer_clear
+.L207:
+	mov	d4,#0
+.L208:
+	mov	d5,d15
+.L137:
+	call	flash_read_page_to_buffer
+.L138:
+	movh.a	a2,#@his(flash_union_buffer)
+	lea	a2,[a2]@los(flash_union_buffer)
+.L209:
+	ld.w	d15,[a2]
+.L135:
+	st.w	[a15],d15
+.L3:
+	ret
+.L93:
+	
+__read_float_function_end:
+	.size	read_float,__read_float_function_end-read_float
+.L62:
+	; End of function
+	
+	.sdecl	'.text.flash.read_point_yaw',code,cluster('read_point_yaw')
+	.sect	'.text.flash.read_point_yaw'
+	.align	2
+	
+	.global	read_point_yaw
+; Function read_point_yaw
+.L40:
+read_point_yaw:	.type	func
+	mov	d4,#0
+.L221:
+	mov	d5,#0
+	call	flash_check
+.L222:
+	jeq	d2,#0,.L4
+.L223:
+	call	flash_buffer_clear
+.L224:
+	mov	d4,#0
+.L225:
+	mov	d5,#0
+	call	flash_read_page_to_buffer
+.L226:
+	movh.a	a15,#@his(flash_union_buffer)
+	lea	a15,[a15]@los(flash_union_buffer)
+.L227:
+	ld.w	d2,[a15]
+.L228:
+	j	.L5
+.L4:
+	mov	d2,#0
+.L229:
+	j	.L6
+.L6:
+.L5:
+	ret
+.L100:
+	
+__read_point_yaw_function_end:
+	.size	read_point_yaw,__read_point_yaw_function_end-read_point_yaw
+.L72:
+	; End of function
+	
+	.sdecl	'.text.flash.clear_flash_data',code,cluster('clear_flash_data')
+	.sect	'.text.flash.clear_flash_data'
+	.align	2
+	
+	.global	clear_flash_data
+; Function clear_flash_data
+.L42:
+clear_flash_data:	.type	func
+	mov	d8,#0
+.L139:
+	j	.L7
+.L8:
+	mov	d4,#0
+.L214:
+	mov	d5,d8
+.L140:
+	call	flash_erase_page
+.L141:
+	add	d8,#1
+.L7:
+	mov	d15,#10
+.L215:
+	jge	d15,d8,.L8
+.L216:
+	ret
+.L97:
+	
+__clear_flash_data_function_end:
+	.size	clear_flash_data,__clear_flash_data_function_end-clear_flash_data
+.L67:
+	; End of function
+	
+	.sdecl	'.text.flash.Flash_Debug_Print_Page',code,cluster('Flash_Debug_Print_Page')
+	.sect	'.text.flash.Flash_Debug_Print_Page'
+	.align	2
+	
+	.global	Flash_Debug_Print_Page
+; Function Flash_Debug_Print_Page
+.L44:
+Flash_Debug_Print_Page:	.type	func
+	sub.a	a10,#16
+.L142:
+	mov	e8,d5,d4
+.L144:
+	jlt.u	d8,#12,.L9
+.L234:
+	st.w	[a10],d8
+.L145:
+	mov	d15,#11
+	st.w	[a10]4,d15
+.L235:
+	movh.a	a4,#@his(.1.str)
+	lea	a4,[a4]@los(.1.str)
+	call	printf
+.L143:
+	j	.L10
+.L9:
+	mov	d0,#1024
+.L147:
+	jlt	d9,d0,.L11
+.L236:
+	st.w	[a10],d9
+.L148:
+	mov	d15,#1023
+	st.w	[a10]4,d15
+.L237:
+	movh.a	a4,#@his(.2.str)
+	lea	a4,[a4]@los(.2.str)
+	call	printf
+.L146:
+	j	.L12
+.L11:
+	jne	d6,#0,.L13
+.L238:
+	j	.L14
+.L13:
+	add	d6,d9
+.L149:
+	extr.u	d10,d6,#0,#16
+.L151:
+	mov	d0,#1024
+.L239:
+	jlt	d0,d10,.L15
+.L152:
+	jge.u	d10,d9,.L16
+.L15:
+	mov	d10,#1024
+.L16:
+	st.w	[a10],d8
+.L153:
+	movh.a	a4,#@his(.3.str)
+	lea	a4,[a4]@los(.3.str)
+	call	printf
+.L150:
+	mov	d4,#0
+.L154:
+	mov	d5,d8
+.L155:
+	call	flash_check
+.L156:
+	jeq	d2,#0,.L17
+.L240:
+	movh.a	a15,#@his(.5.str)
+	lea	a15,[a15]@los(.5.str)
+.L241:
+	j	.L18
+.L17:
+	movh.a	a15,#@his(.6.str)
+	lea	a15,[a15]@los(.6.str)
+.L18:
+	st.a	[a10],a15
+.L242:
+	movh.a	a4,#@his(.4.str)
+	lea	a4,[a4]@los(.4.str)
+	call	printf
+.L243:
+	movh.a	a4,#@his(.7.str)
+	lea	a4,[a4]@los(.7.str)
+	call	printf
+.L244:
+	call	flash_buffer_clear
+.L245:
+	mov	d4,#0
+.L157:
+	mov	d5,d8
+.L158:
+	call	flash_read_page_to_buffer
+.L159:
+	j	.L19
+.L20:
+	st.w	[a10],d9
+.L246:
+	mul	d15,d9,#4
+.L160:
+	movh.a	a15,#@his(flash_union_buffer)
+	lea	a15,[a15]@los(flash_union_buffer)
+.L247:
+	addsc.a	a15,a15,d15,#0
+.L248:
+	ld.w	d15,[a15]
+.L249:
+	st.w	[a10]4,d15
+.L161:
+	mul	d15,d9,#4
+.L162:
+	movh.a	a15,#@his(flash_union_buffer)
+	lea	a15,[a15]@los(flash_union_buffer)
+.L250:
+	addsc.a	a15,a15,d15,#0
+.L251:
+	ld.w	d15,[a15]
+.L252:
+	itof	d15,d15
+.L253:
+	movh	d0,#17096
+.L254:
+	div.f	d15,d15,d0
+	st.w	[a10]8,d15
+.L255:
+	movh.a	a4,#@his(.8.str)
+	lea	a4,[a4]@los(.8.str)
+	call	printf
+.L256:
+	add	d9,#1
+	extr.u	d9,d9,#0,#16
+.L19:
+	jlt.u	d9,d10,.L20
+.L163:
+	st.w	[a10],d8
+.L164:
+	movh.a	a4,#@his(.9.str)
+	lea	a4,[a4]@los(.9.str)
+	call	printf
+.L14:
+.L12:
+.L10:
+	ret
+.L101:
+	
+__Flash_Debug_Print_Page_function_end:
+	.size	Flash_Debug_Print_Page,__Flash_Debug_Print_Page_function_end-Flash_Debug_Print_Page
+.L77:
+	; End of function
+	
+	.sdecl	'.text.flash.Flash_Debug_Print_Pages',code,cluster('Flash_Debug_Print_Pages')
+	.sect	'.text.flash.Flash_Debug_Print_Pages'
+	.align	2
+	
+	.global	Flash_Debug_Print_Pages
+; Function Flash_Debug_Print_Pages
+.L46:
+Flash_Debug_Print_Pages:	.type	func
+	sub.a	a10,#8
+.L165:
+	mov	d15,d5
+.L167:
+	mov	e8,d7,d6
+.L261:
+	jlt.u	d4,#12,.L21
+.L262:
+	st.w	[a10],d4
+.L263:
+	mov	d15,#11
+.L168:
+	st.w	[a10]4,d15
+.L264:
+	movh.a	a4,#@his(.10.str)
+	lea	a4,[a4]@los(.10.str)
+	call	printf
+.L166:
+	j	.L22
+.L21:
+	jlt.u	d15,#12,.L23
+.L265:
+	mov	d15,#11
+.L23:
+	jge.u	d15,d4,.L24
+.L266:
+	st.w	[a10],d15
+.L267:
+	st.w	[a10]4,d4
+.L268:
+	movh.a	a4,#@his(.11.str)
+	lea	a4,[a4]@los(.11.str)
+	call	printf
+.L169:
+	j	.L25
+.L24:
+	mov	d10,d4
+.L170:
+	j	.L26
+.L27:
+	mov	e4,d8,d10
+.L171:
+	mov	d6,d9
+.L172:
+	call	Flash_Debug_Print_Page
+.L173:
+	add	d10,#1
+.L26:
+	jge.u	d15,d10,.L27
+.L25:
+.L22:
+	ret
+.L108:
+	
+__Flash_Debug_Print_Pages_function_end:
+	.size	Flash_Debug_Print_Pages,__Flash_Debug_Print_Pages_function_end-Flash_Debug_Print_Pages
+.L82:
+	; End of function
+	
+	.sdecl	'.text.flash.Flash_Debug_Show_Page',code,cluster('Flash_Debug_Show_Page')
+	.sect	'.text.flash.Flash_Debug_Show_Page'
+	.align	2
+	
+	.global	Flash_Debug_Show_Page
+; Function Flash_Debug_Show_Page
+.L48:
+Flash_Debug_Show_Page:	.type	func
+	sub.a	a10,#40
+.L174:
+	mov	e8,d5,d4
+	mov	d10,d6
+.L176:
+	jge.u	d8,#12,.L28
+.L177:
+	mov	d0,#1024
+.L178:
+	jlt	d9,d0,.L29
+.L28:
+	j	.L30
+.L29:
+	call	flash_buffer_clear
+.L175:
+	mov	d4,#0
+.L179:
+	mov	d5,d8
+.L180:
+	call	flash_read_page_to_buffer
+.L181:
+	call	ips200_clear
+.L182:
+	st.w	[a10],d8
+.L183:
+	lea	a4,[a10]8
+.L273:
+	movh.a	a5,#@his(.12.str)
+	lea	a5,[a5]@los(.12.str)
+	call	sprintf
+.L274:
+	mov	d4,#0
+.L275:
+	mov	d5,#0
+.L276:
+	lea	a4,[a10]8
+	call	ips200_show_string
+.L277:
+	mov	d8,#0
+.L184:
+	j	.L31
+.L32:
+	add	d15,d9,d8
+.L186:
+	mov	d0,#1024
+.L278:
+	jlt	d15,d0,.L33
+.L279:
+	j	.L34
+.L33:
+	st.w	[a10],d15
+.L280:
+	mul	d15,d15,#4
+.L187:
+	movh.a	a15,#@his(flash_union_buffer)
+	lea	a15,[a15]@los(flash_union_buffer)
+.L281:
+	addsc.a	a15,a15,d15,#0
+.L282:
+	ld.w	d15,[a15]
+	st.w	[a10]4,d15
+.L283:
+	lea	a4,[a10]8
+.L284:
+	movh.a	a5,#@his(.13.str)
+	lea	a5,[a5]@los(.13.str)
+	call	sprintf
+.L285:
+	mov	d4,#0
+.L286:
+	add	d15,d8,#1
+.L287:
+	mul	d5,d15,#16
+.L288:
+	lea	a4,[a10]8
+	call	ips200_show_string
+.L289:
+	add	d8,#1
+.L185:
+	extr.u	d8,d8,#0,#8
+.L31:
+	jlt.u	d8,d10,.L32
+.L34:
+.L30:
+	ret
+.L114:
+	
+__Flash_Debug_Show_Page_function_end:
+	.size	Flash_Debug_Show_Page,__Flash_Debug_Show_Page_function_end-Flash_Debug_Show_Page
+.L87:
+	; End of function
+	
+	.sdecl	'.rodata.flash..1.str',data,rom
+	.sect	'.rodata.flash..1.str'
+.1.str:	.type	object
+	.size	.1.str,49
+	.byte	91,70,76,65,83,72,93,32
+	.byte	112,97,103,101,32,37,108,117
+	.byte	32,111,117,116,32,111,102,32
+	.byte	114,97,110,103,101,44,32,109
+	.byte	97,120,32,112,97,103,101,32
+	.byte	105,115,32,37,108,117,13,10
+	.space	1
+	.sdecl	'.rodata.flash..2.str',data,rom
+	.sect	'.rodata.flash..2.str'
+.2.str:	.type	object
+	.size	.2.str,55
+	.byte	91,70,76,65,83,72,93,32
+	.byte	115,116,97,114,116,32,105,110
+	.byte	100,101,120,32,37,117,32,111
+	.byte	117,116,32,111,102,32,114,97
+	.byte	110,103,101,44,32,109,97,120
+	.byte	32,105,110,100,101,120,32,105
+	.byte	115,32,37,117
+	.byte	13,10
+	.space	1
+	.sdecl	'.rodata.flash..3.str',data,rom
+	.sect	'.rodata.flash..3.str'
+.3.str:	.type	object
+	.size	.3.str,41
+	.byte	13,10,61,61,61,61,61,61
+	.byte	61,61,61,61,32,70,76,65
+	.byte	83,72,32,80,65,71,69,32
+	.byte	37,108,117,32,61,61,61,61
+	.byte	61,61,61,61,61,61,13,10
+	.space	1
+	.sdecl	'.rodata.flash..4.str',data,rom
+	.sect	'.rodata.flash..4.str'
+.4.str:	.type	object
+	.size	.4.str,13
+	.byte	115,116,97,116,117,115,58,32
+	.byte	37,115,13,10
+	.space	1
+	.sdecl	'.rodata.flash..5.str',data,rom
+	.sect	'.rodata.flash..5.str'
+.5.str:	.type	object
+	.size	.5.str,9
+	.byte	104,97,115,32,100,97,116,97
+	.space	1
+	.sdecl	'.rodata.flash..6.str',data,rom
+	.sect	'.rodata.flash..6.str'
+.6.str:	.type	object
+	.size	.6.str,6
+	.byte	101,109,112,116
+	.byte	121
+	.space	1
+	.sdecl	'.rodata.flash..7.str',data,rom
+	.sect	'.rodata.flash..7.str'
+.7.str:	.type	object
+	.size	.7.str,36
+	.byte	105,110,100,101,120,32,32,32
+	.byte	32,32,32,32,32,32,32,32
+	.byte	32,32,32,105,110,116,51,50
+	.byte	32,32,32,32,102,108,111,97
+	.byte	116,13,10
+	.space	1
+	.sdecl	'.rodata.flash..8.str',data,rom
+	.sect	'.rodata.flash..8.str'
+.8.str:	.type	object
+	.size	.8.str,24
+	.byte	91,37,48,52,117,93,32,32
+	.byte	32,32,37,49,49,108,100,32
+	.byte	32,32,32,37
+	.byte	102,13,10
+	.space	1
+	.sdecl	'.rodata.flash..9.str',data,rom
+	.sect	'.rodata.flash..9.str'
+.9.str:	.type	object
+	.size	.9.str,39
+	.byte	61,61,61,61,61,61,61,61
+	.byte	32,69,78,68,32,70,76,65
+	.byte	83,72,32,80,65,71,69,32
+	.byte	37,108,117,32,61,61,61,61
+	.byte	61,61,61,61
+	.byte	13,10
+	.space	1
+	.sdecl	'.rodata.flash..10.str',data,rom
+	.sect	'.rodata.flash..10.str'
+.10.str:	.type	object
+	.size	.10.str,55
+	.byte	91,70,76,65,83,72,93,32
+	.byte	115,116,97,114,116,32,112,97
+	.byte	103,101,32,37,108,117,32,111
+	.byte	117,116,32,111,102,32,114,97
+	.byte	110,103,101,44,32,109,97,120
+	.byte	32,112,97,103,101,32,105,115
+	.byte	32,37,108,117
+	.byte	13,10
+	.space	1
+	.sdecl	'.rodata.flash..11.str',data,rom
+	.sect	'.rodata.flash..11.str'
+.11.str:	.type	object
+	.size	.11.str,54
+	.byte	91,70,76,65,83,72,93,32
+	.byte	101,110,100,32,112,97,103,101
+	.byte	32,37,108,117,32,105,115,32
+	.byte	115,109,97,108,108,101,114,32
+	.byte	116,104,97,110,32,115,116,97
+	.byte	114,116,32,112,97,103,101,32
+	.byte	37,108,117,13
+	.byte	10
+	.space	1
+	.sdecl	'.rodata.flash..12.str',data,rom
+	.sect	'.rodata.flash..12.str'
+.12.str:	.type	object
+	.size	.12.str,15
+	.byte	70,76,65,83,72,32,80,65
+	.byte	71,69,32,37
+	.byte	108,117
+	.space	1
+	.sdecl	'.rodata.flash..13.str',data,rom
+	.sect	'.rodata.flash..13.str'
+.13.str:	.type	object
+	.size	.13.str,11
+	.byte	37,48,52,117,58,37,48,56
+	.byte	108,88
+	.space	1
+	.calls	'write_float','flash_buffer_clear'
+	.calls	'write_float','flash_check'
+	.calls	'write_float','flash_erase_page'
+	.calls	'write_float','flash_write_page_from_buffer'
+	.calls	'read_float','flash_check'
+	.calls	'read_float','flash_buffer_clear'
+	.calls	'read_float','flash_read_page_to_buffer'
+	.calls	'read_point_yaw','flash_check'
+	.calls	'read_point_yaw','flash_buffer_clear'
+	.calls	'read_point_yaw','flash_read_page_to_buffer'
+	.calls	'clear_flash_data','flash_erase_page'
+	.calls	'Flash_Debug_Print_Page','printf'
+	.calls	'Flash_Debug_Print_Page','flash_check'
+	.calls	'Flash_Debug_Print_Page','flash_buffer_clear'
+	.calls	'Flash_Debug_Print_Page','flash_read_page_to_buffer'
+	.calls	'Flash_Debug_Print_Pages','printf'
+	.calls	'Flash_Debug_Print_Pages','Flash_Debug_Print_Page'
+	.calls	'Flash_Debug_Show_Page','flash_buffer_clear'
+	.calls	'Flash_Debug_Show_Page','flash_read_page_to_buffer'
+	.calls	'Flash_Debug_Show_Page','ips200_clear'
+	.calls	'Flash_Debug_Show_Page','sprintf'
+	.calls	'Flash_Debug_Show_Page','ips200_show_string'
+	.calls	'write_float','',0
+	.calls	'read_float','',0
+	.calls	'read_point_yaw','',0
+	.calls	'clear_flash_data','',0
+	.calls	'Flash_Debug_Print_Page','',16
+	.calls	'Flash_Debug_Print_Pages','',8
+	.extern	printf
+	.extern	sprintf
+	.extern	flash_union_buffer
+	.extern	flash_check
+	.extern	flash_erase_page
+	.extern	flash_read_page_to_buffer
+	.extern	flash_write_page_from_buffer
+	.extern	flash_buffer_clear
+	.extern	ips200_clear
+	.extern	ips200_show_string
+	.extern	__printf_float
+	.extern	__printf_int
+	.calls	'Flash_Debug_Show_Page','',40
+	.sdecl	'.debug_info',debug
+	.sect	'.debug_info'
+.L50:
+	.word	1650
+	.half	3
+	.word	.L51
+	.byte	4
+.L49:
+	.byte	1
+	.byte	'../code/flash.c',0
+	.byte	'TASKING VX-toolset for AURIX Development Studio (non-commercial): C compiler',0
+	.byte	'D:\\ADS\\workSpace\\Car2026_wucha_ORRn\\Debug\\',0,12,1
+	.word	.L52
+	.byte	2,1,1,3
+	.word	154
+	.byte	4
+	.byte	'Ifx__jump_and_link',0,3,1,61,17,1,1,5
+	.byte	'fun',0,1,61,43
+	.word	157
+	.byte	6,0,7
+	.byte	'__fract',0,4,128,1
+.L89:
+	.byte	7
+	.byte	'float',0,4,4,8
+	.byte	'Ifx__float_to_fract',0,3,1,152,2,18
+	.word	202
+	.byte	1,1,5
+	.byte	'a',0,1,152,2,44
+	.word	214
+	.byte	6,0,7
+	.byte	'unsigned long long int',0,8,7,9
+	.byte	'void',0,3
+	.word	294
+	.byte	8
+	.byte	'__ld64',0,3,2,135,1,19
+	.word	268
+	.byte	1,1,5
+	.byte	'addr',0,2,135,1,32
+	.word	300
+	.byte	6,0,4
+	.byte	'__st64',0,3,2,143,1,17,1,1,5
+	.byte	'addr',0,2,143,1,30
+	.word	300
+	.byte	5
+	.byte	'value',0,2,143,1,43
+	.word	268
+	.byte	6,0,10
+	.word	162
+	.byte	11
+	.word	188
+	.byte	6,0,10
+	.word	223
+	.byte	11
+	.word	255
+	.byte	6,0,10
+	.word	305
+	.byte	11
+	.word	324
+	.byte	6,0,10
+	.word	340
+	.byte	11
+	.word	355
+	.byte	11
+	.word	369
+	.byte	6,0
+.L98:
+	.byte	7
+	.byte	'int',0,4,5,7
+	.byte	'char',0,1,6,12
+	.word	446
+	.byte	3
+	.word	454
+	.byte	13
+	.word	459
+	.byte	14
+	.byte	'printf',0,3,143,1,16
+	.word	439
+	.byte	1,1,1,1,15,3,143,1,38
+	.word	464
+	.byte	16,3,143,1,50,0,3
+	.word	446
+	.byte	13
+	.word	504
+	.byte	13
+	.word	459
+	.byte	14
+	.byte	'sprintf',0,3,146,1,16
+	.word	439
+	.byte	1,1,1,1,15,3,146,1,32
+	.word	509
+	.byte	15,3,146,1,55
+	.word	514
+	.byte	16,3,146,1,67,0
+.L117:
+	.byte	7
+	.byte	'unsigned char',0,1,8
+.L91:
+	.byte	7
+	.byte	'unsigned long int',0,4,7,14
+	.byte	'flash_check',0,4,66,9
+	.word	564
+	.byte	1,1,1,1,5
+	.byte	'sector_num',0,4,66,49
+	.word	581
+	.byte	5
+	.byte	'page_num',0,4,66,68
+	.word	581
+	.byte	0,17
+	.byte	'flash_erase_page',0,4,67,9,1,1,1,1,5
+	.byte	'sector_num',0,4,67,49
+	.word	581
+	.byte	5
+	.byte	'page_num',0,4,67,68
+	.word	581
+	.byte	0,17
+	.byte	'flash_read_page_to_buffer',0,4,70,9,1,1,1,1,5
+	.byte	'sector_num',0,4,70,49
+	.word	581
+	.byte	5
+	.byte	'page_num',0,4,70,68
+	.word	581
+	.byte	0,14
+	.byte	'flash_write_page_from_buffer',0,4,71,9
+	.word	564
+	.byte	1,1,1,1,5
+	.byte	'sector_num',0,4,71,49
+	.word	581
+	.byte	5
+	.byte	'page_num',0,4,71,68
+	.word	581
+	.byte	0,18
+	.byte	'flash_buffer_clear',0,4,72,9,1,1,1,1
+.L94:
+	.byte	3
+	.word	214
+.L103:
+	.byte	7
+	.byte	'unsigned short int',0,2,7
+.L121:
+	.byte	19,32
+	.word	446
+	.byte	20,31,0,18
+	.byte	'ips200_clear',0,5,168,1,9,1,1,1,1,17
+	.byte	'ips200_show_string',0,5,177,1,9,1,1,1,1,5
+	.byte	'x',0,5,177,1,49
+	.word	906
+	.byte	5
+	.byte	'y',0,5,177,1,59
+	.word	906
+	.byte	5
+	.byte	'dat',0,5,177,1,73
+	.word	459
+	.byte	0,7
+	.byte	'short int',0,2,5,21
+	.byte	'__wchar_t',0,6,1,1
+	.word	1023
+	.byte	7
+	.byte	'unsigned int',0,4,7,21
+	.byte	'__size_t',0,6,1,1
+	.word	1054
+	.byte	21
+	.byte	'__ptrdiff_t',0,6,1,1
+	.word	439
+	.byte	22,1,3
+	.word	1107
+	.byte	21
+	.byte	'__codeptr',0,6,1,1
+	.word	1109
+	.byte	21
+	.byte	'__intptr_t',0,6,1,1
+	.word	439
+	.byte	21
+	.byte	'__uintptr_t',0,6,1,1
+	.word	1054
+	.byte	21
+	.byte	'uint8',0,7,105,29
+	.word	564
+	.byte	21
+	.byte	'uint16',0,7,109,29
+	.word	906
+	.byte	21
+	.byte	'uint32',0,7,113,29
+	.word	581
+	.byte	21
+	.byte	'uint64',0,7,118,29
+	.word	268
+	.byte	21
+	.byte	'sint16',0,7,126,29
+	.word	1023
+	.byte	7
+	.byte	'long int',0,4,5,21
+	.byte	'sint32',0,7,131,1,29
+	.word	1245
+	.byte	7
+	.byte	'long long int',0,8,5,21
+	.byte	'sint64',0,7,138,1,29
+	.word	1273
+	.byte	21
+	.byte	'float32',0,7,167,1,29
+	.word	214
+	.byte	21
+	.byte	'pvoid',0,8,57,28
+	.word	300
+	.byte	21
+	.byte	'Ifx_TickTime',0,8,79,28
+	.word	1273
+	.byte	21
+	.byte	'_iob_flag_t',0,3,82,25
+	.word	906
+	.byte	7
+	.byte	'char',0,1,6,21
+	.byte	'int8',0,9,54,29
+	.word	1378
+	.byte	21
+	.byte	'int16',0,9,55,29
+	.word	1023
+	.byte	21
+	.byte	'int32',0,9,56,29
+	.word	439
+	.byte	21
+	.byte	'int64',0,9,57,29
+	.word	1273
+	.byte	23,4,52,9,4,24
+	.byte	'float_type',0
+	.word	214
+	.byte	4,2,35,0,24
+	.byte	'uint32_type',0
+	.word	581
+	.byte	4,2,35,0,24
+	.byte	'int32_type',0
+	.word	439
+	.byte	4,2,35,0,24
+	.byte	'uint16_type',0
+	.word	906
+	.byte	2,2,35,0,24
+	.byte	'int16_type',0
+	.word	1023
+	.byte	2,2,35,0,24
+	.byte	'uint8_type',0
+	.word	564
+	.byte	1,2,35,0,24
+	.byte	'int8_type',0
+	.word	1378
+	.byte	1,2,35,0,0,21
+	.byte	'flash_data_union',0,4,61,2
+	.word	1441
+	.byte	19,128,32
+	.word	1441
+	.byte	20,255,7,0,25
+	.byte	'flash_union_buffer',0,4,63,25
+	.word	1613
+	.byte	1,1,0
+	.sdecl	'.debug_abbrev',debug
+	.sect	'.debug_abbrev'
+.L51:
+	.byte	1,17,1,3,8,37,8,27,8,19,15,128,70,12,16,6,0,0,2,21,0,54,15,39,12,0,0,3,15,0,73,19,0,0,4,46,1,3,8,32,13
+	.byte	58,15,59,15,57,15,54,15,39,12,0,0,5,5,0,3,8,58,15,59,15,57,15,73,19,0,0,6,11,0,0,0,7,36,0,3,8,11,15,62
+	.byte	15,0,0,8,46,1,3,8,32,13,58,15,59,15,57,15,73,19,54,15,39,12,0,0,9,59,0,3,8,0,0,10,46,1,49,19,0,0,11,5
+	.byte	0,49,19,0,0,12,38,0,73,19,0,0,13,55,0,73,19,0,0,14,46,1,3,8,58,15,59,15,57,15,73,19,54,15,39,12,63,12
+	.byte	60,12,0,0,15,5,0,58,15,59,15,57,15,73,19,0,0,16,24,0,58,15,59,15,57,15,0,0,17,46,1,3,8,58,15,59,15,57
+	.byte	15,54,15,39,12,63,12,60,12,0,0,18,46,0,3,8,58,15,59,15,57,15,54,15,39,12,63,12,60,12,0,0,19,1,1,11,15
+	.byte	73,19,0,0,20,33,0,47,15,0,0,21,22,0,3,8,58,15,59,15,57,15,73,19,0,0,22,21,0,54,15,0,0,23,23,1,58,15,59
+	.byte	15,57,15,11,15,0,0,24,13,0,3,8,73,19,11,15,56,9,0,0,25,52,0,3,8,58,15,59,15,57,15,73,19,63,12,60,12,0
+	.byte	0,0
+	.sdecl	'.debug_line',debug
+	.sect	'.debug_line'
+.L52:
+	.word	.L189-.L188
+.L188:
+	.half	3
+	.word	.L191-.L190
+.L190:
+	.byte	2,1,-4,9,10,0,1,1,1,1,0,0,0,1
+	.byte	'D:\\ADS\\AURIX-Studio-1.10.24\\tools\\Compilers\\Tasking_1.1r8\\ctc\\include\\',0
+	.byte	'D:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\zf_driver',0
+	.byte	'D:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\zf_device',0
+	.byte	'D:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\zf_common',0,0
+	.byte	'D:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\Cpu\\Std\\IfxCpu_IntrinsicsTasking.h',0
+	.byte	0,0,0
+	.byte	'D:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\Cpu\\Std\\IfxCpu_Intrinsics.h',0
+	.byte	0,0,0
+	.byte	'stdio.h',0,1,0,0
+	.byte	'zf_driver_flash.h',0,2,0,0
+	.byte	'zf_device_ips200.h',0,3,0,0
+	.byte	'../code/flash.c',0,0,0,0
+	.byte	'D:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\Cpu\\Std\\Platform_Types.h',0
+	.byte	0,0,0
+	.byte	'D:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\Cpu\\Std\\Ifx_Types.h',0
+	.byte	0,0,0
+	.byte	'zf_common_typedef.h',0,4,0,0,0
+.L191:
+.L189:
+	.sdecl	'.debug_info',debug,cluster('write_float')
+	.sect	'.debug_info'
+.L53:
+	.word	239
+	.half	3
+	.word	.L54
+	.byte	4,1
+	.byte	'../code/flash.c',0
+	.byte	'TASKING VX-toolset for AURIX Development Studio (non-commercial): C compiler',0
+	.byte	'D:\\ADS\\workSpace\\Car2026_wucha_ORRn\\Debug\\',0,12,1
+	.word	.L56,.L55
+	.byte	2
+	.word	.L49
+	.byte	3
+	.byte	'write_float',0,1,16,6,1,1,1
+	.word	.L36,.L88,.L35
+	.byte	4
+	.byte	'data',0,1,16,24
+	.word	.L89,.L90
+	.byte	4
+	.byte	'page_num',0,1,16,36
+	.word	.L91,.L92
+	.byte	5
+	.word	.L36,.L88
+	.byte	0,0
+	.sdecl	'.debug_abbrev',debug,cluster('write_float')
+	.sect	'.debug_abbrev'
+.L54:
+	.byte	1,17,1,3,8,37,8,27,8,19,15,128,70,12,85,6,16,6,0,0,2,61,0,24,16,0,0,3,46,1,3,8,58,15,59,15,57,15,54,15
+	.byte	39,12,63,12,17,1,18,1,64,6,0,0,4,5,0,3,8,58,15,59,15,57,15,73,16,2,6,0,0,5,11,0,17,1,18,1,0,0,0
+	.sdecl	'.debug_line',debug,cluster('write_float')
+	.sect	'.debug_line'
+.L55:
+	.word	.L193-.L192
+.L192:
+	.half	3
+	.word	.L195-.L194
+.L194:
+	.byte	2,1,-4,9,10,0,1,1,1,1,0,0,0,1,0
+	.byte	'../code/flash.c',0,0,0,0,0
+.L195:
+	.byte	5,6,7,0,5,2
+	.word	.L36
+	.byte	3,15,1,5,23,9
+	.half	.L125-.L36
+	.byte	3,2,1,5,5,9
+	.half	.L123-.L125
+	.byte	3,2,1,5,38,9
+	.half	.L196-.L123
+	.byte	1,5,20,9
+	.half	.L197-.L196
+	.byte	3,2,1,5,41,9
+	.half	.L198-.L197
+	.byte	1,5,5,9
+	.half	.L127-.L198
+	.byte	1,5,26,7,9
+	.half	.L199-.L127
+	.byte	3,2,1,5,47,9
+	.half	.L200-.L199
+	.byte	1,5,34,9
+	.half	.L2-.L200
+	.byte	3,3,1,5,55,9
+	.half	.L201-.L2
+	.byte	1,5,1,9
+	.half	.L130-.L201
+	.byte	3,1,1,7,9
+	.half	.L57-.L130
+	.byte	0,1,1
+.L193:
+	.sdecl	'.debug_ranges',debug,cluster('write_float')
+	.sect	'.debug_ranges'
+.L56:
+	.word	-1,.L36,0,.L57-.L36,0,0
+	.sdecl	'.debug_info',debug,cluster('read_float')
+	.sect	'.debug_info'
+.L58:
+	.word	238
+	.half	3
+	.word	.L59
+	.byte	4,1
+	.byte	'../code/flash.c',0
+	.byte	'TASKING VX-toolset for AURIX Development Studio (non-commercial): C compiler',0
+	.byte	'D:\\ADS\\workSpace\\Car2026_wucha_ORRn\\Debug\\',0,12,1
+	.word	.L61,.L60
+	.byte	2
+	.word	.L49
+	.byte	3
+	.byte	'read_float',0,1,30,6,1,1,1
+	.word	.L38,.L93,.L37
+	.byte	4
+	.byte	'data',0,1,30,24
+	.word	.L94,.L95
+	.byte	4
+	.byte	'page_num',0,1,30,36
+	.word	.L91,.L96
+	.byte	5
+	.word	.L38,.L93
+	.byte	0,0
+	.sdecl	'.debug_abbrev',debug,cluster('read_float')
+	.sect	'.debug_abbrev'
+.L59:
+	.byte	1,17,1,3,8,37,8,27,8,19,15,128,70,12,85,6,16,6,0,0,2,61,0,24,16,0,0,3,46,1,3,8,58,15,59,15,57,15,54,15
+	.byte	39,12,63,12,17,1,18,1,64,6,0,0,4,5,0,3,8,58,15,59,15,57,15,73,16,2,6,0,0,5,11,0,17,1,18,1,0,0,0
+	.sdecl	'.debug_line',debug,cluster('read_float')
+	.sect	'.debug_line'
+.L60:
+	.word	.L203-.L202
+.L202:
+	.half	3
+	.word	.L205-.L204
+.L204:
+	.byte	2,1,-4,9,10,0,1,1,1,1,0,0,0,1,0
+	.byte	'../code/flash.c',0,0,0,0,0
+.L205:
+	.byte	5,6,7,0,5,2
+	.word	.L38
+	.byte	3,29,1,5,19,9
+	.half	.L134-.L38
+	.byte	3,2,1,5,40,9
+	.half	.L132-.L134
+	.byte	1,5,4,9
+	.half	.L131-.L132
+	.byte	1,5,26,7,9
+	.half	.L206-.L131
+	.byte	3,2,1,5,34,9
+	.half	.L207-.L206
+	.byte	3,1,1,5,55,9
+	.half	.L208-.L207
+	.byte	1,5,16,9
+	.half	.L138-.L208
+	.byte	3,1,1,5,37,9
+	.half	.L209-.L138
+	.byte	1,5,14,9
+	.half	.L135-.L209
+	.byte	1,5,1,9
+	.half	.L3-.L135
+	.byte	3,2,1,7,9
+	.half	.L62-.L3
+	.byte	0,1,1
+.L203:
+	.sdecl	'.debug_ranges',debug,cluster('read_float')
+	.sect	'.debug_ranges'
+.L61:
+	.word	-1,.L38,0,.L62-.L38,0,0
+	.sdecl	'.debug_info',debug,cluster('clear_flash_data')
+	.sect	'.debug_info'
+.L63:
+	.word	221
+	.half	3
+	.word	.L64
+	.byte	4,1
+	.byte	'../code/flash.c',0
+	.byte	'TASKING VX-toolset for AURIX Development Studio (non-commercial): C compiler',0
+	.byte	'D:\\ADS\\workSpace\\Car2026_wucha_ORRn\\Debug\\',0,12,1
+	.word	.L66,.L65
+	.byte	2
+	.word	.L49
+	.byte	3
+	.byte	'clear_flash_data',0,1,53,6,1,1,1
+	.word	.L42,.L97,.L41
+	.byte	4
+	.word	.L42,.L97
+	.byte	5
+	.byte	'i',0,1,54,9
+	.word	.L98,.L99
+	.byte	0,0,0
+	.sdecl	'.debug_abbrev',debug,cluster('clear_flash_data')
+	.sect	'.debug_abbrev'
+.L64:
+	.byte	1,17,1,3,8,37,8,27,8,19,15,128,70,12,85,6,16,6,0,0,2,61,0,24,16,0,0,3,46,1,3,8,58,15,59,15,57,15,54,15
+	.byte	39,12,63,12,17,1,18,1,64,6,0,0,4,11,1,17,1,18,1,0,0,5,52,0,3,8,58,15,59,15,57,15,73,16,2,6,0,0,0
+	.sdecl	'.debug_line',debug,cluster('clear_flash_data')
+	.sect	'.debug_line'
+.L65:
+	.word	.L211-.L210
+.L210:
+	.half	3
+	.word	.L213-.L212
+.L212:
+	.byte	2,1,-4,9,10,0,1,1,1,1,0,0,0,1,0
+	.byte	'../code/flash.c',0,0,0,0,0
+.L213:
+	.byte	5,11,7,0,5,2
+	.word	.L42
+	.byte	3,54,1,5,19,9
+	.half	.L139-.L42
+	.byte	1,5,26,9
+	.half	.L8-.L139
+	.byte	3,1,1,5,46,9
+	.half	.L214-.L8
+	.byte	1,5,21,9
+	.half	.L141-.L214
+	.byte	3,127,1,5,17,9
+	.half	.L7-.L141
+	.byte	1,5,19,9
+	.half	.L215-.L7
+	.byte	1,5,1,7,9
+	.half	.L216-.L215
+	.byte	3,3,1,7,9
+	.half	.L67-.L216
+	.byte	0,1,1
+.L211:
+	.sdecl	'.debug_ranges',debug,cluster('clear_flash_data')
+	.sect	'.debug_ranges'
+.L66:
+	.word	-1,.L42,0,.L67-.L42,0,0
+	.sdecl	'.debug_info',debug,cluster('read_point_yaw')
+	.sect	'.debug_info'
+.L68:
+	.word	208
+	.half	3
+	.word	.L69
+	.byte	4,1
+	.byte	'../code/flash.c',0
+	.byte	'TASKING VX-toolset for AURIX Development Studio (non-commercial): C compiler',0
+	.byte	'D:\\ADS\\workSpace\\Car2026_wucha_ORRn\\Debug\\',0,12,1
+	.word	.L71,.L70
+	.byte	2
+	.word	.L49
+	.byte	3
+	.byte	'read_point_yaw',0,1,39,7
+	.word	.L89
+	.byte	1,1,1
+	.word	.L40,.L100,.L39
+	.byte	4
+	.word	.L40,.L100
+	.byte	0,0
+	.sdecl	'.debug_abbrev',debug,cluster('read_point_yaw')
+	.sect	'.debug_abbrev'
+.L69:
+	.byte	1,17,1,3,8,37,8,27,8,19,15,128,70,12,85,6,16,6,0,0,2,61,0,24,16,0,0,3,46,1,3,8,58,15,59,15,57,15,73,16
+	.byte	54,15,39,12,63,12,17,1,18,1,64,6,0,0,4,11,0,17,1,18,1,0,0,0
+	.sdecl	'.debug_line',debug,cluster('read_point_yaw')
+	.sect	'.debug_line'
+.L70:
+	.word	.L218-.L217
+.L217:
+	.half	3
+	.word	.L220-.L219
+.L219:
+	.byte	2,1,-4,9,10,0,1,1,1,1,0,0,0,1,0
+	.byte	'../code/flash.c',0,0,0,0,0
+.L220:
+	.byte	5,20,7,0,5,2
+	.word	.L40
+	.byte	3,39,1,5,41,9
+	.half	.L221-.L40
+	.byte	1,5,5,9
+	.half	.L222-.L221
+	.byte	1,5,26,7,9
+	.half	.L223-.L222
+	.byte	3,2,1,5,34,9
+	.half	.L224-.L223
+	.byte	3,1,1,5,55,9
+	.half	.L225-.L224
+	.byte	1,5,15,9
+	.half	.L226-.L225
+	.byte	3,1,1,5,36,9
+	.half	.L227-.L226
+	.byte	1,5,8,9
+	.half	.L228-.L227
+	.byte	1,5,16,9
+	.half	.L4-.L228
+	.byte	3,3,1,5,9,9
+	.half	.L229-.L4
+	.byte	1,5,1,9
+	.half	.L5-.L229
+	.byte	3,2,1,7,9
+	.half	.L72-.L5
+	.byte	0,1,1
+.L218:
+	.sdecl	'.debug_ranges',debug,cluster('read_point_yaw')
+	.sect	'.debug_ranges'
+.L71:
+	.word	-1,.L40,0,.L72-.L40,0,0
+	.sdecl	'.debug_info',debug,cluster('Flash_Debug_Print_Page')
+	.sect	'.debug_info'
+.L73:
+	.word	312
+	.half	3
+	.word	.L74
+	.byte	4,1
+	.byte	'../code/flash.c',0
+	.byte	'TASKING VX-toolset for AURIX Development Studio (non-commercial): C compiler',0
+	.byte	'D:\\ADS\\workSpace\\Car2026_wucha_ORRn\\Debug\\',0,12,1
+	.word	.L76,.L75
+	.byte	2
+	.word	.L49
+	.byte	3
+	.byte	'Flash_Debug_Print_Page',0,1,61,6,1,1,1
+	.word	.L44,.L101,.L43
+	.byte	4
+	.byte	'page_num',0,1,61,36
+	.word	.L91,.L102
+	.byte	4
+	.byte	'start_index',0,1,61,53
+	.word	.L103,.L104
+	.byte	4
+	.byte	'count',0,1,61,73
+	.word	.L103,.L105
+	.byte	5
+	.word	.L44,.L101
+	.byte	6
+	.byte	'i',0,1,63,12
+	.word	.L103,.L106
+	.byte	6
+	.byte	'end_index',0,1,64,12
+	.word	.L103,.L107
+	.byte	0,0,0
+	.sdecl	'.debug_abbrev',debug,cluster('Flash_Debug_Print_Page')
+	.sect	'.debug_abbrev'
+.L74:
+	.byte	1,17,1,3,8,37,8,27,8,19,15,128,70,12,85,6,16,6,0,0,2,61,0,24,16,0,0,3,46,1,3,8,58,15,59,15,57,15,54,15
+	.byte	39,12,63,12,17,1,18,1,64,6,0,0,4,5,0,3,8,58,15,59,15,57,15,73,16,2,6,0,0,5,11,1,17,1,18,1,0,0,6,52,0,3
+	.byte	8,58,15,59,15,57,15,73,16,2,6,0,0,0
+	.sdecl	'.debug_line',debug,cluster('Flash_Debug_Print_Page')
+	.sect	'.debug_line'
+.L75:
+	.word	.L231-.L230
+.L230:
+	.half	3
+	.word	.L233-.L232
+.L232:
+	.byte	2,1,-4,9,10,0,1,1,1,1,0,0,0,1,0
+	.byte	'../code/flash.c',0,0,0,0,0
+.L233:
+	.byte	5,6,7,0,5,2
+	.word	.L44
+	.byte	3,60,1,5,5,9
+	.half	.L144-.L44
+	.byte	3,5,1,5,31,7,9
+	.half	.L234-.L144
+	.byte	3,3,1,5,41,9
+	.half	.L145-.L234
+	.byte	1,5,16,9
+	.half	.L235-.L145
+	.byte	3,127,1,5,9,9
+	.half	.L143-.L235
+	.byte	3,2,1,5,23,9
+	.half	.L9-.L143
+	.byte	3,3,1,5,5,9
+	.half	.L147-.L9
+	.byte	1,5,16,7,9
+	.half	.L236-.L147
+	.byte	3,3,1,5,29,9
+	.half	.L148-.L236
+	.byte	1,5,16,9
+	.half	.L237-.L148
+	.byte	3,127,1,5,9,9
+	.half	.L146-.L237
+	.byte	3,2,1,5,5,9
+	.half	.L11-.L146
+	.byte	3,3,1,5,9,7,9
+	.half	.L238-.L11
+	.byte	3,2,1,5,29,9
+	.half	.L13-.L238
+	.byte	3,3,1,5,20,9
+	.half	.L151-.L13
+	.byte	3,1,1,5,8,9
+	.half	.L239-.L151
+	.byte	1,5,52,7,9
+	.half	.L152-.L239
+	.byte	1,5,19,7,9
+	.half	.L15-.L152
+	.byte	3,2,1,5,75,9
+	.half	.L16-.L15
+	.byte	3,3,1,5,12,9
+	.half	.L153-.L16
+	.byte	1,5,42,9
+	.half	.L150-.L153
+	.byte	3,1,1,5,63,9
+	.half	.L154-.L150
+	.byte	1,5,30,9
+	.half	.L156-.L154
+	.byte	1,5,75,7,9
+	.half	.L240-.L156
+	.byte	1,5,86,9
+	.half	.L241-.L240
+	.byte	1,5,88,9
+	.half	.L17-.L241
+	.byte	1,5,73,9
+	.half	.L18-.L17
+	.byte	1,5,12,9
+	.half	.L242-.L18
+	.byte	1,9
+	.half	.L243-.L242
+	.byte	3,1,1,5,23,9
+	.half	.L244-.L243
+	.byte	3,2,1,5,31,9
+	.half	.L245-.L244
+	.byte	3,1,1,5,52,9
+	.half	.L157-.L245
+	.byte	1,5,39,9
+	.half	.L159-.L157
+	.byte	3,2,1,5,44,9
+	.half	.L20-.L159
+	.byte	3,2,1,5,71,9
+	.half	.L246-.L20
+	.byte	1,5,53,9
+	.half	.L160-.L246
+	.byte	1,5,71,9
+	.half	.L247-.L160
+	.byte	1,5,74,9
+	.half	.L248-.L247
+	.byte	1,5,47,9
+	.half	.L249-.L248
+	.byte	1,5,111,9
+	.half	.L161-.L249
+	.byte	1,5,93,9
+	.half	.L162-.L161
+	.byte	1,5,111,9
+	.half	.L250-.L162
+	.byte	1,5,114,9
+	.half	.L251-.L250
+	.byte	1,5,86,9
+	.half	.L252-.L251
+	.byte	1,5,126,9
+	.half	.L253-.L252
+	.byte	1,5,125,9
+	.half	.L254-.L253
+	.byte	1,5,16,9
+	.half	.L255-.L254
+	.byte	1,5,42,9
+	.half	.L256-.L255
+	.byte	3,126,1,5,39,9
+	.half	.L19-.L256
+	.byte	1,5,71,7,9
+	.half	.L163-.L19
+	.byte	3,5,1,5,12,9
+	.half	.L164-.L163
+	.byte	1,5,1,9
+	.half	.L10-.L164
+	.byte	3,1,1,7,9
+	.half	.L77-.L10
+	.byte	0,1,1
+.L231:
+	.sdecl	'.debug_ranges',debug,cluster('Flash_Debug_Print_Page')
+	.sect	'.debug_ranges'
+.L76:
+	.word	-1,.L44,0,.L77-.L44,0,0
+	.sdecl	'.debug_info',debug,cluster('Flash_Debug_Print_Pages')
+	.sect	'.debug_info'
+.L78:
+	.word	317
+	.half	3
+	.word	.L79
+	.byte	4,1
+	.byte	'../code/flash.c',0
+	.byte	'TASKING VX-toolset for AURIX Development Studio (non-commercial): C compiler',0
+	.byte	'D:\\ADS\\workSpace\\Car2026_wucha_ORRn\\Debug\\',0,12,1
+	.word	.L81,.L80
+	.byte	2
+	.word	.L49
+	.byte	3
+	.byte	'Flash_Debug_Print_Pages',0,1,106,6,1,1,1
+	.word	.L46,.L108,.L45
+	.byte	4
+	.byte	'start_page',0,1,106,37
+	.word	.L91,.L109
+	.byte	4
+	.byte	'end_page',0,1,106,56
+	.word	.L91,.L110
+	.byte	4
+	.byte	'start_index',0,1,106,73
+	.word	.L103,.L111
+	.byte	4
+	.byte	'count',0,1,106,93
+	.word	.L103,.L112
+	.byte	5
+	.word	.L46,.L108
+	.byte	6
+	.byte	'page',0,1,108,12
+	.word	.L91,.L113
+	.byte	0,0,0
+	.sdecl	'.debug_abbrev',debug,cluster('Flash_Debug_Print_Pages')
+	.sect	'.debug_abbrev'
+.L79:
+	.byte	1,17,1,3,8,37,8,27,8,19,15,128,70,12,85,6,16,6,0,0,2,61,0,24,16,0,0,3,46,1,3,8,58,15,59,15,57,15,54,15
+	.byte	39,12,63,12,17,1,18,1,64,6,0,0,4,5,0,3,8,58,15,59,15,57,15,73,16,2,6,0,0,5,11,1,17,1,18,1,0,0,6,52,0,3
+	.byte	8,58,15,59,15,57,15,73,16,2,6,0,0,0
+	.sdecl	'.debug_line',debug,cluster('Flash_Debug_Print_Pages')
+	.sect	'.debug_line'
+.L80:
+	.word	.L258-.L257
+.L257:
+	.half	3
+	.word	.L260-.L259
+.L259:
+	.byte	2,1,-4,9,10,0,1,1,1,1,0,0,0,1,0
+	.byte	'../code/flash.c',0,0,0,0,0
+.L260:
+	.byte	5,6,7,0,5,2
+	.word	.L46
+	.byte	3,233,0,1,5,5,9
+	.half	.L261-.L46
+	.byte	3,4,1,5,31,7,9
+	.half	.L262-.L261
+	.byte	3,3,1,5,43,9
+	.half	.L263-.L262
+	.byte	1,5,16,9
+	.half	.L264-.L263
+	.byte	3,127,1,5,9,9
+	.half	.L166-.L264
+	.byte	3,2,1,5,5,9
+	.half	.L21-.L166
+	.byte	3,3,1,5,18,7,9
+	.half	.L265-.L21
+	.byte	3,2,1,5,5,9
+	.half	.L23-.L265
+	.byte	3,3,1,5,31,7,9
+	.half	.L266-.L23
+	.byte	3,3,1,5,56,9
+	.half	.L267-.L266
+	.byte	1,5,16,9
+	.half	.L268-.L267
+	.byte	3,127,1,5,9,9
+	.half	.L169-.L268
+	.byte	3,2,1,5,14,9
+	.half	.L24-.L169
+	.byte	3,3,1,5,44,9
+	.half	.L170-.L24
+	.byte	1,5,51,9
+	.half	.L27-.L170
+	.byte	3,2,1,5,50,9
+	.half	.L173-.L27
+	.byte	3,126,1,5,44,9
+	.half	.L26-.L173
+	.byte	1,5,1,7,9
+	.half	.L22-.L26
+	.byte	3,4,1,7,9
+	.half	.L82-.L22
+	.byte	0,1,1
+.L258:
+	.sdecl	'.debug_ranges',debug,cluster('Flash_Debug_Print_Pages')
+	.sect	'.debug_ranges'
+.L81:
+	.word	-1,.L46,0,.L82-.L46,0,0
+	.sdecl	'.debug_info',debug,cluster('Flash_Debug_Show_Page')
+	.sect	'.debug_info'
+.L83:
+	.word	334
+	.half	3
+	.word	.L84
+	.byte	4,1
+	.byte	'../code/flash.c',0
+	.byte	'TASKING VX-toolset for AURIX Development Studio (non-commercial): C compiler',0
+	.byte	'D:\\ADS\\workSpace\\Car2026_wucha_ORRn\\Debug\\',0,12,1
+	.word	.L86,.L85
+	.byte	2
+	.word	.L49
+	.byte	3
+	.byte	'Flash_Debug_Show_Page',0,1,135,1,6,1,1,1
+	.word	.L48,.L114,.L47
+	.byte	4
+	.byte	'page_num',0,1,135,1,35
+	.word	.L91,.L115
+	.byte	4
+	.byte	'start_index',0,1,135,1,52
+	.word	.L103,.L116
+	.byte	4
+	.byte	'lines',0,1,135,1,71
+	.word	.L117,.L118
+	.byte	5
+	.word	.L48,.L114
+	.byte	6
+	.byte	'line',0,1,137,1,11
+	.word	.L117,.L119
+	.byte	6
+	.byte	'index',0,1,138,1,12
+	.word	.L103,.L120
+	.byte	6
+	.byte	'text',0,1,139,1,10
+	.word	.L121,.L122
+	.byte	0,0,0
+	.sdecl	'.debug_abbrev',debug,cluster('Flash_Debug_Show_Page')
+	.sect	'.debug_abbrev'
+.L84:
+	.byte	1,17,1,3,8,37,8,27,8,19,15,128,70,12,85,6,16,6,0,0,2,61,0,24,16,0,0,3,46,1,3,8,58,15,59,15,57,15,54,15
+	.byte	39,12,63,12,17,1,18,1,64,6,0,0,4,5,0,3,8,58,15,59,15,57,15,73,16,2,6,0,0,5,11,1,17,1,18,1,0,0,6,52,0,3
+	.byte	8,58,15,59,15,57,15,73,16,2,6,0,0,0
+	.sdecl	'.debug_line',debug,cluster('Flash_Debug_Show_Page')
+	.sect	'.debug_line'
+.L85:
+	.word	.L270-.L269
+.L269:
+	.half	3
+	.word	.L272-.L271
+.L271:
+	.byte	2,1,-4,9,10,0,1,1,1,1,0,0,0,1,0
+	.byte	'../code/flash.c',0,0,0,0,0
+.L272:
+	.byte	5,6,7,0,5,2
+	.word	.L48
+	.byte	3,134,1,1,5,8,9
+	.half	.L176-.L48
+	.byte	3,6,1,5,54,7,9
+	.half	.L177-.L176
+	.byte	1,5,51,9
+	.half	.L178-.L177
+	.byte	1,5,9,7,9
+	.half	.L28-.L178
+	.byte	3,2,1,5,23,9
+	.half	.L29-.L28
+	.byte	3,3,1,5,31,9
+	.half	.L175-.L29
+	.byte	3,1,1,5,52,9
+	.half	.L179-.L175
+	.byte	1,5,17,9
+	.half	.L181-.L179
+	.byte	3,2,1,5,52,9
+	.half	.L182-.L181
+	.byte	3,1,1,5,13,9
+	.half	.L183-.L182
+	.byte	1,5,19,9
+	.half	.L273-.L183
+	.byte	1,5,24,9
+	.half	.L274-.L273
+	.byte	3,1,1,5,27,9
+	.half	.L275-.L274
+	.byte	1,5,30,9
+	.half	.L276-.L275
+	.byte	1,5,14,9
+	.half	.L277-.L276
+	.byte	3,2,1,5,31,9
+	.half	.L184-.L277
+	.byte	1,5,29,9
+	.half	.L32-.L184
+	.byte	3,2,1,5,21,9
+	.half	.L186-.L32
+	.byte	3,1,1,5,9,9
+	.half	.L278-.L186
+	.byte	1,5,13,7,9
+	.half	.L279-.L278
+	.byte	3,2,1,5,37,9
+	.half	.L33-.L279
+	.byte	3,3,1,5,77,9
+	.half	.L280-.L33
+	.byte	1,5,59,9
+	.half	.L187-.L280
+	.byte	1,5,77,9
+	.half	.L281-.L187
+	.byte	1,5,84,9
+	.half	.L282-.L281
+	.byte	1,5,17,9
+	.half	.L283-.L282
+	.byte	1,5,23,9
+	.half	.L284-.L283
+	.byte	1,5,28,9
+	.half	.L285-.L284
+	.byte	3,1,1,5,46,9
+	.half	.L286-.L285
+	.byte	1,5,51,9
+	.half	.L287-.L286
+	.byte	1,5,58,9
+	.half	.L288-.L287
+	.byte	1,5,37,9
+	.half	.L289-.L288
+	.byte	3,119,1,5,31,9
+	.half	.L31-.L289
+	.byte	1,5,1,7,9
+	.half	.L30-.L31
+	.byte	3,11,1,7,9
+	.half	.L87-.L30
+	.byte	0,1,1
+.L270:
+	.sdecl	'.debug_ranges',debug,cluster('Flash_Debug_Show_Page')
+	.sect	'.debug_ranges'
+.L86:
+	.word	-1,.L48,0,.L87-.L48,0,0
+	.sdecl	'.debug_loc',debug,cluster('Flash_Debug_Print_Page')
+	.sect	'.debug_loc'
+.L43:
+	.word	-1,.L44,0,.L142-.L44
+	.half	2
+	.byte	138,0
+	.word	.L142-.L44,.L101-.L44
+	.half	2
+	.byte	138,16
+	.word	.L101-.L44,.L101-.L44
+	.half	2
+	.byte	138,0
+	.word	0,0
+.L105:
+	.word	-1,.L44,0,.L143-.L44
+	.half	1
+	.byte	86
+	.word	.L9-.L44,.L146-.L44
+	.half	1
+	.byte	86
+	.word	.L11-.L44,.L149-.L44
+	.half	1
+	.byte	86
+	.word	0,0
+.L107:
+	.word	-1,.L44,.L151-.L44,.L10-.L44
+	.half	1
+	.byte	90
+	.word	0,0
+.L106:
+	.word	0,0
+.L102:
+	.word	-1,.L44,0,.L143-.L44
+	.half	1
+	.byte	84
+	.word	.L144-.L44,.L145-.L44
+	.half	1
+	.byte	88
+	.word	.L9-.L44,.L146-.L44
+	.half	1
+	.byte	84
+	.word	.L11-.L44,.L150-.L44
+	.half	1
+	.byte	84
+	.word	.L16-.L44,.L153-.L44
+	.half	1
+	.byte	88
+	.word	.L154-.L44,.L155-.L44
+	.half	1
+	.byte	88
+	.word	.L155-.L44,.L156-.L44
+	.half	1
+	.byte	85
+	.word	.L157-.L44,.L158-.L44
+	.half	1
+	.byte	88
+	.word	.L158-.L44,.L159-.L44
+	.half	1
+	.byte	85
+	.word	.L163-.L44,.L164-.L44
+	.half	1
+	.byte	88
+	.word	0,0
+.L104:
+	.word	-1,.L44,0,.L143-.L44
+	.half	1
+	.byte	85
+	.word	.L9-.L44,.L146-.L44
+	.half	1
+	.byte	85
+	.word	.L147-.L44,.L148-.L44
+	.half	1
+	.byte	89
+	.word	.L11-.L44,.L150-.L44
+	.half	1
+	.byte	85
+	.word	.L13-.L44,.L149-.L44
+	.half	1
+	.byte	89
+	.word	.L152-.L44,.L15-.L44
+	.half	1
+	.byte	89
+	.word	.L20-.L44,.L160-.L44
+	.half	1
+	.byte	89
+	.word	.L161-.L44,.L162-.L44
+	.half	1
+	.byte	89
+	.word	.L19-.L44,.L163-.L44
+	.half	1
+	.byte	89
+	.word	0,0
+	.sdecl	'.debug_loc',debug,cluster('Flash_Debug_Print_Pages')
+	.sect	'.debug_loc'
+.L45:
+	.word	-1,.L46,0,.L165-.L46
+	.half	2
+	.byte	138,0
+	.word	.L165-.L46,.L108-.L46
+	.half	2
+	.byte	138,8
+	.word	.L108-.L46,.L108-.L46
+	.half	2
+	.byte	138,0
+	.word	0,0
+.L112:
+	.word	-1,.L46,0,.L166-.L46
+	.half	1
+	.byte	87
+	.word	.L21-.L46,.L169-.L46
+	.half	1
+	.byte	87
+	.word	.L24-.L46,.L27-.L46
+	.half	1
+	.byte	87
+	.word	.L171-.L46,.L172-.L46
+	.half	1
+	.byte	89
+	.word	.L172-.L46,.L173-.L46
+	.half	1
+	.byte	86
+	.word	0,0
+.L110:
+	.word	-1,.L46,0,.L166-.L46
+	.half	1
+	.byte	85
+	.word	.L167-.L46,.L168-.L46
+	.half	1
+	.byte	95
+	.word	.L21-.L46,.L23-.L46
+	.half	1
+	.byte	85
+	.word	.L21-.L46,.L22-.L46
+	.half	1
+	.byte	95
+	.word	0,0
+.L113:
+	.word	-1,.L46,.L170-.L46,.L22-.L46
+	.half	1
+	.byte	90
+	.word	0,0
+.L111:
+	.word	-1,.L46,0,.L166-.L46
+	.half	1
+	.byte	86
+	.word	.L21-.L46,.L169-.L46
+	.half	1
+	.byte	86
+	.word	.L24-.L46,.L27-.L46
+	.half	1
+	.byte	86
+	.word	.L27-.L46,.L171-.L46
+	.half	1
+	.byte	88
+	.word	0,0
+.L109:
+	.word	-1,.L46,0,.L166-.L46
+	.half	1
+	.byte	84
+	.word	.L21-.L46,.L169-.L46
+	.half	1
+	.byte	84
+	.word	.L24-.L46,.L27-.L46
+	.half	1
+	.byte	84
+	.word	0,0
+	.sdecl	'.debug_loc',debug,cluster('Flash_Debug_Show_Page')
+	.sect	'.debug_loc'
+.L47:
+	.word	-1,.L48,0,.L174-.L48
+	.half	2
+	.byte	138,0
+	.word	.L174-.L48,.L114-.L48
+	.half	2
+	.byte	138,40
+	.word	.L114-.L48,.L114-.L48
+	.half	2
+	.byte	138,0
+	.word	0,0
+.L120:
+	.word	-1,.L48,.L186-.L48,.L187-.L48
+	.half	1
+	.byte	95
+	.word	0,0
+.L119:
+	.word	-1,.L48,.L184-.L48,.L185-.L48
+	.half	1
+	.byte	88
+	.word	.L31-.L48,.L30-.L48
+	.half	1
+	.byte	88
+	.word	0,0
+.L118:
+	.word	-1,.L48,0,.L175-.L48
+	.half	1
+	.byte	86
+	.word	.L176-.L48,.L114-.L48
+	.half	1
+	.byte	90
+	.word	0,0
+.L115:
+	.word	-1,.L48,0,.L175-.L48
+	.half	1
+	.byte	84
+	.word	.L176-.L48,.L177-.L48
+	.half	1
+	.byte	88
+	.word	.L179-.L48,.L180-.L48
+	.half	1
+	.byte	88
+	.word	.L180-.L48,.L181-.L48
+	.half	1
+	.byte	85
+	.word	.L182-.L48,.L183-.L48
+	.half	1
+	.byte	88
+	.word	0,0
+.L116:
+	.word	-1,.L48,0,.L175-.L48
+	.half	1
+	.byte	85
+	.word	.L178-.L48,.L28-.L48
+	.half	1
+	.byte	89
+	.word	.L32-.L48,.L186-.L48
+	.half	1
+	.byte	89
+	.word	0,0
+.L122:
+	.word	-1,.L48,0,.L114-.L48
+	.half	2
+	.byte	145,96
+	.word	0,0
+	.sdecl	'.debug_loc',debug,cluster('clear_flash_data')
+	.sect	'.debug_loc'
+.L41:
+	.word	-1,.L42,0,.L97-.L42
+	.half	2
+	.byte	138,0
+	.word	0,0
+.L99:
+	.word	-1,.L42,.L139-.L42,.L97-.L42
+	.half	1
+	.byte	88
+	.word	.L140-.L42,.L141-.L42
+	.half	1
+	.byte	85
+	.word	0,0
+	.sdecl	'.debug_loc',debug,cluster('read_float')
+	.sect	'.debug_loc'
+.L95:
+	.word	-1,.L38,0,.L131-.L38
+	.half	1
+	.byte	100
+	.word	.L133-.L38,.L93-.L38
+	.half	1
+	.byte	111
+	.word	0,0
+.L96:
+	.word	-1,.L38,0,.L132-.L38
+	.half	1
+	.byte	84
+	.word	.L134-.L38,.L135-.L38
+	.half	1
+	.byte	95
+	.word	.L136-.L38,.L131-.L38
+	.half	1
+	.byte	85
+	.word	.L137-.L38,.L138-.L38
+	.half	1
+	.byte	85
+	.word	0,0
+.L37:
+	.word	-1,.L38,0,.L93-.L38
+	.half	2
+	.byte	138,0
+	.word	0,0
+	.sdecl	'.debug_loc',debug,cluster('read_point_yaw')
+	.sect	'.debug_loc'
+.L39:
+	.word	-1,.L40,0,.L100-.L40
+	.half	2
+	.byte	138,0
+	.word	0,0
+	.sdecl	'.debug_loc',debug,cluster('write_float')
+	.sect	'.debug_loc'
+.L90:
+	.word	-1,.L36,0,.L123-.L36
+	.half	1
+	.byte	84
+	.word	.L124-.L36,.L88-.L36
+	.half	1
+	.byte	95
+	.word	0,0
+.L92:
+	.word	-1,.L36,0,.L123-.L36
+	.half	1
+	.byte	85
+	.word	.L125-.L36,.L88-.L36
+	.half	1
+	.byte	88
+	.word	.L126-.L36,.L127-.L36
+	.half	1
+	.byte	85
+	.word	.L128-.L36,.L2-.L36
+	.half	1
+	.byte	85
+	.word	.L129-.L36,.L130-.L36
+	.half	1
+	.byte	85
+	.word	0,0
+.L35:
+	.word	-1,.L36,0,.L88-.L36
+	.half	2
+	.byte	138,0
+	.word	0,0
+	.sdecl	'.debug_frame',debug
+	.sect	'.debug_frame'
+.L290:
+	.word	48
+	.word	-1
+	.byte	3,0,2,1,27,12,26,0,8,26,8,27,8,30,8,29,8,28,8,16,8,17,8,24,8,25,8,31,8,32,8,33,8,34,8,35,8,36,8,37,8,38
+	.byte	8,39
+	.sdecl	'.debug_frame',debug,cluster('write_float')
+	.sect	'.debug_frame'
+	.word	12
+	.word	.L290,.L36,.L88-.L36
+	.sdecl	'.debug_frame',debug,cluster('read_float')
+	.sect	'.debug_frame'
+	.word	12
+	.word	.L290,.L38,.L93-.L38
+	.sdecl	'.debug_frame',debug,cluster('read_point_yaw')
+	.sect	'.debug_frame'
+	.word	12
+	.word	.L290,.L40,.L100-.L40
+	.sdecl	'.debug_frame',debug,cluster('clear_flash_data')
+	.sect	'.debug_frame'
+	.word	12
+	.word	.L290,.L42,.L97-.L42
+	.sdecl	'.debug_frame',debug,cluster('Flash_Debug_Print_Page')
+	.sect	'.debug_frame'
+	.word	36
+	.word	.L290,.L44,.L101-.L44
+	.byte	4
+	.word	(.L142-.L44)/2
+	.byte	19,16,22,26,3,19,138,16,4
+	.word	(.L101-.L142)/2
+	.byte	19,0,8,26,0,0
+	.sdecl	'.debug_frame',debug,cluster('Flash_Debug_Print_Pages')
+	.sect	'.debug_frame'
+	.word	36
+	.word	.L290,.L46,.L108-.L46
+	.byte	4
+	.word	(.L165-.L46)/2
+	.byte	19,8,22,26,3,19,138,8,4
+	.word	(.L108-.L165)/2
+	.byte	19,0,8,26,0,0
+	.sdecl	'.debug_frame',debug,cluster('Flash_Debug_Show_Page')
+	.sect	'.debug_frame'
+	.word	36
+	.word	.L290,.L48,.L114-.L48
+	.byte	4
+	.word	(.L174-.L48)/2
+	.byte	19,40,22,26,3,19,138,40,4
+	.word	(.L114-.L174)/2
+	.byte	19,0,8,26,0,0
+	; Module end

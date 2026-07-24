@@ -1,0 +1,1261 @@
+	; Module start
+	.compiler_version	"TASKING VX-toolset for AURIX Development Studio (non-commercial): C compiler v1.1r8 Build 22011964"
+	.compiler_invocation	"ctc -f cc25888a --dep-file=code/PID.d -c99 --fp-model=3cflnrSTz -D__CPU__=tc26xb -D__CPU_TC26XB__ --core=tc1.6.x --fp-model=+float -D__CPU__=tc26xb -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\code -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\Configurations -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\Infra -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\Infra\\\\Platform -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\Infra\\\\Platform\\\\Tricore -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\Infra\\\\Platform\\\\Tricore\\\\Compilers -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\Infra\\\\Sfr -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\Infra\\\\Sfr\\\\TC26B -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\Infra\\\\Sfr\\\\TC26B\\\\_Reg -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\Service -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\Service\\\\CpuGeneric -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\Service\\\\CpuGeneric\\\\If -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\Service\\\\CpuGeneric\\\\If\\\\Ccu6If -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\Service\\\\CpuGeneric\\\\StdIf -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\Service\\\\CpuGeneric\\\\SysSe -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\Service\\\\CpuGeneric\\\\SysSe\\\\Bsp -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\Service\\\\CpuGeneric\\\\SysSe\\\\Math -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\Service\\\\CpuGeneric\\\\_Utilities -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Asclin -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Asclin\\\\Asc -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Asclin\\\\Std -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Ccu6 -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Ccu6\\\\Std -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Ccu6\\\\Timer -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Cpu -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Cpu\\\\CStart -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Cpu\\\\Irq -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Cpu\\\\Std -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Dma -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Dma\\\\Dma -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Dma\\\\Std -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Flash -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Flash\\\\Std -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Gpt12 -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Gpt12\\\\IncrEnc -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Gpt12\\\\Std -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Gtm -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Gtm\\\\Atom -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Gtm\\\\Atom\\\\Pwm -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Gtm\\\\Std -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Mtu -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Mtu\\\\Std -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Port -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Port\\\\Std -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Qspi -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Qspi\\\\SpiMaster -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Qspi\\\\Std -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Scu -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Scu\\\\Std -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Src -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Src\\\\Std -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Stm -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Stm\\\\Std -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Vadc -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Vadc\\\\Adc -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\Vadc\\\\Std -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\_Impl -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\_Lib -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\_Lib\\\\DataHandling -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\infineon_libraries\\\\iLLD\\\\TC26B\\\\Tricore\\\\_PinMap -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\zf_common -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\zf_components -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\zf_device -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\libraries\\\\zf_driver -ID:\\\\ADS\\\\workSpace\\\\Car2026_wucha_ORRn\\\\user -g2 -w544 -w557 -t4 --language=+volatile -N0 -O0 -Y0 -Z0 --compact-max-size=200 --misrac-version=2004 -o code/PID.src ../code/PID.c"
+	.compiler_name		"ctc"
+	;source	'../code/PID.c'
+
+	
+$TC16X
+	
+	.sdecl	'.text.PID.PID_Init',code,cluster('PID_Init')
+	.sect	'.text.PID.PID_Init'
+	.align	2
+	
+	.global	PID_Init
+; Function PID_Init
+.L15:
+PID_Init:	.type	func
+	ld.w	d0,[a10]
+.L87:
+	st.w	[a4],d4
+.L106:
+	st.w	[a4]4,d5
+.L107:
+	st.w	[a4]8,d6
+.L108:
+	mov	d15,#0
+.L109:
+	st.w	[a4]16,d15
+.L110:
+	st.w	[a4]24,d0
+.L111:
+	st.w	[a4]28,d7
+.L112:
+	ret
+.L53:
+	
+__PID_Init_function_end:
+	.size	PID_Init,__PID_Init_function_end-PID_Init
+.L32:
+	; End of function
+	
+	.sdecl	'.text.PID.GetPIDValue',code,cluster('GetPIDValue')
+	.sect	'.text.PID.GetPIDValue'
+	.align	2
+	
+	.global	GetPIDValue
+; Function GetPIDValue
+.L17:
+GetPIDValue:	.type	func
+	sub.f	d15,d5,d4
+.L117:
+	st.w	[a4]12,d15
+.L118:
+	sub.f	d0,d5,d4
+.L89:
+	ld.w	d15,[a4]20
+.L119:
+	sub.f	d1,d5,d4
+.L120:
+	add.f	d15,d15,d1
+.L121:
+	st.w	[a4]20,d15
+.L122:
+	ld.w	d15,[a4]12
+.L123:
+	ld.w	d1,[a4]16
+.L124:
+	sub.f	d1,d15,d1
+.L91:
+	ld.w	d2,[a4]8
+.L125:
+	ld.w	d3,[a4]
+.L126:
+	ld.w	d4,[a4]4
+.L88:
+	ld.w	d15,[a4]20
+.L127:
+	mul.f	d15,d4,d15
+.L128:
+	madd.f	d15,d15,d3,d0
+.L129:
+	madd.f	d15,d15,d2,d1
+.L130:
+	st.w	[a4]32,d15
+.L131:
+	ld.w	d15,[a4]12
+.L132:
+	st.w	[a4]16,d15
+.L133:
+	ld.w	d15,[a4]32
+.L134:
+	ld.w	d0,[a4]28
+.L90:
+	cmp.f	d15,d15,d0
+	extr.u	d15,d15,#2,#1
+.L135:
+	jeq	d15,#0,.L2
+.L136:
+	ld.w	d15,[a4]28
+.L137:
+	st.w	[a4]32,d15
+.L138:
+	j	.L3
+.L2:
+	ld.w	d15,[a4]32
+.L139:
+	ld.w	d0,[a4]24
+.L140:
+	cmp.f	d15,d15,d0
+	extr.u	d15,d15,#0,#1
+.L141:
+	jeq	d15,#0,.L4
+.L142:
+	ld.w	d15,[a4]24
+.L143:
+	st.w	[a4]32,d15
+.L4:
+.L3:
+	ld.w	d2,[a4]32
+.L144:
+	j	.L5
+.L5:
+	ret
+.L62:
+	
+__GetPIDValue_function_end:
+	.size	GetPIDValue,__GetPIDValue_function_end-GetPIDValue
+.L37:
+	; End of function
+	
+	.sdecl	'.text.PID.GetPIDValue2',code,cluster('GetPIDValue2')
+	.sect	'.text.PID.GetPIDValue2'
+	.align	2
+	
+	.global	GetPIDValue2
+; Function GetPIDValue2
+.L19:
+GetPIDValue2:	.type	func
+	st.w	[a4]12,d4
+.L149:
+	ld.w	d15,[a4]20
+.L150:
+	add.f	d15,d15,d4
+.L151:
+	st.w	[a4]20,d15
+.L152:
+	ld.w	d15,[a4]12
+.L153:
+	ld.w	d0,[a4]16
+.L154:
+	sub.f	d0,d15,d0
+.L92:
+	ld.w	d1,[a4]8
+.L155:
+	ld.w	d2,[a4]
+.L156:
+	ld.w	d3,[a4]4
+.L157:
+	ld.w	d15,[a4]20
+.L158:
+	mul.f	d15,d3,d15
+.L159:
+	madd.f	d15,d15,d2,d4
+.L160:
+	madd.f	d15,d15,d1,d0
+.L161:
+	st.w	[a4]32,d15
+.L162:
+	ld.w	d15,[a4]12
+.L163:
+	st.w	[a4]16,d15
+.L164:
+	ld.w	d15,[a4]32
+.L165:
+	ld.w	d0,[a4]28
+.L93:
+	cmp.f	d15,d15,d0
+	extr.u	d15,d15,#2,#1
+.L166:
+	jeq	d15,#0,.L6
+.L167:
+	ld.w	d15,[a4]28
+.L168:
+	st.w	[a4]32,d15
+.L169:
+	j	.L7
+.L6:
+	ld.w	d15,[a4]32
+.L170:
+	ld.w	d0,[a4]24
+.L171:
+	cmp.f	d15,d15,d0
+	extr.u	d15,d15,#0,#1
+.L172:
+	jeq	d15,#0,.L8
+.L173:
+	ld.w	d15,[a4]24
+.L174:
+	st.w	[a4]32,d15
+.L8:
+.L7:
+	ld.w	d2,[a4]32
+.L175:
+	j	.L9
+.L9:
+	ret
+.L68:
+	
+__GetPIDValue2_function_end:
+	.size	GetPIDValue2,__GetPIDValue2_function_end-GetPIDValue2
+.L42:
+	; End of function
+	
+	.sdecl	'.text.PID.Incremental_PID_Init',code,cluster('Incremental_PID_Init')
+	.sect	'.text.PID.Incremental_PID_Init'
+	.align	2
+	
+	.global	Incremental_PID_Init
+; Function Incremental_PID_Init
+.L21:
+Incremental_PID_Init:	.type	func
+	ld.w	d0,[a10]
+.L94:
+	st.w	[a4],d4
+.L180:
+	st.w	[a4]4,d5
+.L181:
+	st.w	[a4]8,d6
+.L182:
+	mov	d15,#0
+.L183:
+	st.w	[a4]12,d15
+.L184:
+	mov	d15,#0
+.L185:
+	st.w	[a4]16,d15
+.L186:
+	mov	d15,#0
+.L187:
+	st.w	[a4]20,d15
+.L188:
+	st.w	[a4]24,d0
+.L189:
+	st.w	[a4]28,d7
+.L190:
+	ret
+.L73:
+	
+__Incremental_PID_Init_function_end:
+	.size	Incremental_PID_Init,__Incremental_PID_Init_function_end-Incremental_PID_Init
+.L47:
+	; End of function
+	
+	.sdecl	'.text.PID.Get_Incremental_PID_Value',code,cluster('Get_Incremental_PID_Value')
+	.sect	'.text.PID.Get_Incremental_PID_Value'
+	.align	2
+	
+	.global	Get_Incremental_PID_Value
+; Function Get_Incremental_PID_Value
+.L23:
+Get_Incremental_PID_Value:	.type	func
+	st.w	[a4]12,d4
+.L195:
+	ld.w	d15,[a4]16
+.L196:
+	sub.f	d0,d4,d15
+.L95:
+	ld.w	d15,[a4]16
+.L197:
+	movh	d1,#16384
+.L198:
+	msub.f	d1,d4,d15,d1
+.L199:
+	ld.w	d15,[a4]20
+.L200:
+	add.f	d1,d1,d15
+.L97:
+	movh.a	a15,#@his(_999001_Increment)
+	lea	a15,[a15]@los(_999001_Increment)
+.L201:
+	ld.w	d2,[a4]8
+.L202:
+	ld.w	d3,[a4]
+.L203:
+	ld.w	d15,[a4]4
+.L204:
+	mul.f	d15,d15,d4
+.L205:
+	madd.f	d15,d15,d3,d0
+.L206:
+	madd.f	d15,d15,d2,d1
+.L207:
+	st.w	[a15],d15
+.L208:
+	ld.w	d15,[a4]16
+.L209:
+	st.w	[a4]20,d15
+.L210:
+	ld.w	d15,[a4]12
+.L211:
+	st.w	[a4]16,d15
+.L212:
+	ld.w	d15,[a4]32
+.L213:
+	movh.a	a15,#@his(_999001_Increment)
+	lea	a15,[a15]@los(_999001_Increment)
+	ld.w	d0,[a15]
+.L96:
+	add.f	d15,d15,d0
+.L214:
+	st.w	[a4]32,d15
+.L215:
+	ld.w	d15,[a4]32
+.L216:
+	ld.w	d0,[a4]28
+.L217:
+	cmp.f	d15,d15,d0
+	extr.u	d15,d15,#2,#1
+.L218:
+	jeq	d15,#0,.L10
+.L219:
+	ld.w	d15,[a4]28
+.L220:
+	st.w	[a4]32,d15
+.L221:
+	j	.L11
+.L10:
+	ld.w	d15,[a4]32
+.L222:
+	ld.w	d0,[a4]24
+.L223:
+	cmp.f	d15,d15,d0
+	extr.u	d15,d15,#0,#1
+.L224:
+	jeq	d15,#0,.L12
+.L225:
+	ld.w	d15,[a4]24
+.L226:
+	st.w	[a4]32,d15
+.L12:
+.L11:
+	ld.w	d2,[a4]32
+.L227:
+	j	.L13
+.L13:
+	ret
+.L81:
+	
+__Get_Incremental_PID_Value_function_end:
+	.size	Get_Incremental_PID_Value,__Get_Incremental_PID_Value_function_end-Get_Incremental_PID_Value
+.L52:
+	; End of function
+	
+	.sdecl	'.data.PID._999001_Increment',data,cluster('_999001_Increment')
+	.sect	'.data.PID._999001_Increment'
+	.align	2
+_999001_Increment:	.type	object
+	.size	_999001_Increment,4
+	.space	4
+	.calls	'PID_Init','',0
+	.calls	'GetPIDValue','',0
+	.calls	'GetPIDValue2','',0
+	.calls	'Incremental_PID_Init','',0
+	.calls	'Get_Incremental_PID_Value','',0
+	.sdecl	'.debug_info',debug
+	.sect	'.debug_info'
+.L25:
+	.word	623
+	.half	3
+	.word	.L26
+	.byte	4
+.L24:
+	.byte	1
+	.byte	'../code/PID.c',0
+	.byte	'TASKING VX-toolset for AURIX Development Studio (non-commercial): C compiler',0
+	.byte	'D:\\ADS\\workSpace\\Car2026_wucha_ORRn\\Debug\\',0,12,1
+	.word	.L27
+.L56:
+	.byte	2
+	.byte	'float',0,4,4,3,1,11,9,36,4
+	.byte	'Kp',0
+	.word	152
+	.byte	4,2,35,0,4
+	.byte	'Ki',0
+	.word	152
+	.byte	4,2,35,4,4
+	.byte	'Kd',0
+	.word	152
+	.byte	4,2,35,8,4
+	.byte	'Error',0
+	.word	152
+	.byte	4,2,35,12,4
+	.byte	'previousError',0
+	.word	152
+	.byte	4,2,35,16,4
+	.byte	'I_Out',0
+	.word	152
+	.byte	4,2,35,20,4
+	.byte	'OutputMin',0
+	.word	152
+	.byte	4,2,35,24,4
+	.byte	'OutputMax',0
+	.word	152
+	.byte	4,2,35,28,4
+	.byte	'Output',0
+	.word	152
+	.byte	4,2,35,32,0
+.L54:
+	.byte	5
+	.word	161
+	.byte	3,1,26,9,36,4
+	.byte	'Kp',0
+	.word	152
+	.byte	4,2,35,0,4
+	.byte	'Ki',0
+	.word	152
+	.byte	4,2,35,4,4
+	.byte	'Kd',0
+	.word	152
+	.byte	4,2,35,8,4
+	.byte	'Error',0
+	.word	152
+	.byte	4,2,35,12,4
+	.byte	'Error_Last',0
+	.word	152
+	.byte	4,2,35,16,4
+	.byte	'Error_Pre',0
+	.word	152
+	.byte	4,2,35,20,4
+	.byte	'Out_Put_Min',0
+	.word	152
+	.byte	4,2,35,24,4
+	.byte	'Out_Put_Max',0
+	.word	152
+	.byte	4,2,35,28,4
+	.byte	'Output',0
+	.word	152
+	.byte	4,2,35,32,0
+.L74:
+	.byte	5
+	.word	315
+	.byte	2
+	.byte	'unsigned int',0,4,7,6
+	.byte	'__size_t',0,2,1,1
+	.word	474
+	.byte	7,1,5
+	.word	507
+	.byte	6
+	.byte	'__codeptr',0,2,1,1
+	.word	509
+	.byte	6
+	.byte	'Pid_TypeDef',0,1,24,2
+	.word	161
+	.byte	6
+	.byte	'Incremental_PID_TypeDef',0,1,40,2
+	.word	315
+	.byte	2
+	.byte	'unsigned short int',0,2,7,6
+	.byte	'_iob_flag_t',0,3,82,25
+	.word	584
+	.byte	0
+	.sdecl	'.debug_abbrev',debug
+	.sect	'.debug_abbrev'
+.L26:
+	.byte	1,17,1,3,8,37,8,27,8,19,15,128,70,12,16,6,0,0,2,36,0,3,8,11,15,62,15,0,0,3,19,1,58,15,59,15,57,15,11,15
+	.byte	0,0,4,13,0,3,8,73,19,11,15,56,9,0,0,5,15,0,73,19,0,0,6,22,0,3,8,58,15,59,15,57,15,73,19,0,0,7,21,0,54
+	.byte	15,0,0,0
+	.sdecl	'.debug_line',debug
+	.sect	'.debug_line'
+.L27:
+	.word	.L99-.L98
+.L98:
+	.half	3
+	.word	.L101-.L100
+.L100:
+	.byte	2,1,-4,9,10,0,1,1,1,1,0,0,0,1
+	.byte	'D:\\ADS\\AURIX-Studio-1.10.24\\tools\\Compilers\\Tasking_1.1r8\\ctc\\include\\',0,0
+	.byte	'..\\code\\PID.h',0,0,0,0
+	.byte	'../code/PID.c',0,0,0,0
+	.byte	'stdio.h',0,1,0,0,0
+.L101:
+.L99:
+	.sdecl	'.debug_info',debug,cluster('PID_Init')
+	.sect	'.debug_info'
+.L28:
+	.word	301
+	.half	3
+	.word	.L29
+	.byte	4,1
+	.byte	'../code/PID.c',0
+	.byte	'TASKING VX-toolset for AURIX Development Studio (non-commercial): C compiler',0
+	.byte	'D:\\ADS\\workSpace\\Car2026_wucha_ORRn\\Debug\\',0,12,1
+	.word	.L31,.L30
+	.byte	2
+	.word	.L24
+	.byte	3
+	.byte	'PID_Init',0,1,23,6,1,1,1
+	.word	.L15,.L53,.L14
+	.byte	4
+	.byte	'PID',0,1,23,28
+	.word	.L54,.L55
+	.byte	4
+	.byte	'Kp',0,1,23,39
+	.word	.L56,.L57
+	.byte	4
+	.byte	'Ki',0,1,23,49
+	.word	.L56,.L58
+	.byte	4
+	.byte	'Kd',0,1,23,59
+	.word	.L56,.L59
+	.byte	4
+	.byte	'OutputMax',0,1,23,69
+	.word	.L56,.L60
+	.byte	4
+	.byte	'OutputMin',0,1,23,86
+	.word	.L56,.L61
+	.byte	5
+	.word	.L15,.L53
+	.byte	0,0
+	.sdecl	'.debug_abbrev',debug,cluster('PID_Init')
+	.sect	'.debug_abbrev'
+.L29:
+	.byte	1,17,1,3,8,37,8,27,8,19,15,128,70,12,85,6,16,6,0,0,2,61,0,24,16,0,0,3,46,1,3,8,58,15,59,15,57,15,54,15
+	.byte	39,12,63,12,17,1,18,1,64,6,0,0,4,5,0,3,8,58,15,59,15,57,15,73,16,2,6,0,0,5,11,0,17,1,18,1,0,0,0
+	.sdecl	'.debug_line',debug,cluster('PID_Init')
+	.sect	'.debug_line'
+.L30:
+	.word	.L103-.L102
+.L102:
+	.half	3
+	.word	.L105-.L104
+.L104:
+	.byte	2,1,-4,9,10,0,1,1,1,1,0,0,0,1,0
+	.byte	'../code/PID.c',0,0,0,0,0
+.L105:
+	.byte	5,6,7,0,5,2
+	.word	.L15
+	.byte	3,22,1,5,13,9
+	.half	.L87-.L15
+	.byte	3,2,1,9
+	.half	.L106-.L87
+	.byte	3,1,1,9
+	.half	.L107-.L106
+	.byte	3,1,1,5,26,9
+	.half	.L108-.L107
+	.byte	3,1,1,5,24,9
+	.half	.L109-.L108
+	.byte	1,5,20,9
+	.half	.L110-.L109
+	.byte	3,1,1,9
+	.half	.L111-.L110
+	.byte	3,1,1,5,1,9
+	.half	.L112-.L111
+	.byte	3,1,1,7,9
+	.half	.L32-.L112
+	.byte	0,1,1
+.L103:
+	.sdecl	'.debug_ranges',debug,cluster('PID_Init')
+	.sect	'.debug_ranges'
+.L31:
+	.word	-1,.L15,0,.L32-.L15,0,0
+	.sdecl	'.debug_info',debug,cluster('GetPIDValue')
+	.sect	'.debug_info'
+.L33:
+	.word	293
+	.half	3
+	.word	.L34
+	.byte	4,1
+	.byte	'../code/PID.c',0
+	.byte	'TASKING VX-toolset for AURIX Development Studio (non-commercial): C compiler',0
+	.byte	'D:\\ADS\\workSpace\\Car2026_wucha_ORRn\\Debug\\',0,12,1
+	.word	.L36,.L35
+	.byte	2
+	.word	.L24
+	.byte	3
+	.byte	'GetPIDValue',0,1,38,7
+	.word	.L56
+	.byte	1,1,1
+	.word	.L17,.L62,.L16
+	.byte	4
+	.byte	'PID',0,1,38,32
+	.word	.L54,.L63
+	.byte	4
+	.byte	'measurement',0,1,38,43
+	.word	.L56,.L64
+	.byte	4
+	.byte	'setpoint',0,1,38,62
+	.word	.L56,.L65
+	.byte	5
+	.word	.L17,.L62
+	.byte	6
+	.byte	'P',0,1,40,11
+	.word	.L56,.L66
+	.byte	6
+	.byte	'D',0,1,40,21
+	.word	.L56,.L67
+	.byte	0,0,0
+	.sdecl	'.debug_abbrev',debug,cluster('GetPIDValue')
+	.sect	'.debug_abbrev'
+.L34:
+	.byte	1,17,1,3,8,37,8,27,8,19,15,128,70,12,85,6,16,6,0,0,2,61,0,24,16,0,0,3,46,1,3,8,58,15,59,15,57,15,73,16
+	.byte	54,15,39,12,63,12,17,1,18,1,64,6,0,0,4,5,0,3,8,58,15,59,15,57,15,73,16,2,6,0,0,5,11,1,17,1,18,1,0,0,6
+	.byte	52,0,3,8,58,15,59,15,57,15,73,16,2,6,0,0,0
+	.sdecl	'.debug_line',debug,cluster('GetPIDValue')
+	.sect	'.debug_line'
+.L35:
+	.word	.L114-.L113
+.L113:
+	.half	3
+	.word	.L116-.L115
+.L115:
+	.byte	2,1,-4,9,10,0,1,1,1,1,0,0,0,1,0
+	.byte	'../code/PID.c',0,0,0,0,0
+.L116:
+	.byte	5,27,7,0,5,2
+	.word	.L17
+	.byte	3,40,1,5,16,9
+	.half	.L117-.L17
+	.byte	1,5,12,9
+	.half	.L118-.L117
+	.byte	3,1,1,5,21,9
+	.half	.L89-.L118
+	.byte	3,1,1,5,34,9
+	.half	.L119-.L89
+	.byte	1,5,29,9
+	.half	.L120-.L119
+	.byte	1,5,16,9
+	.half	.L121-.L120
+	.byte	1,5,12,9
+	.half	.L122-.L121
+	.byte	3,1,1,5,25,9
+	.half	.L123-.L122
+	.byte	1,5,20,9
+	.half	.L124-.L123
+	.byte	1,5,57,9
+	.half	.L91-.L124
+	.byte	3,3,1,5,22,9
+	.half	.L125-.L91
+	.byte	1,5,35,9
+	.half	.L126-.L125
+	.byte	1,5,45,9
+	.half	.L88-.L126
+	.byte	1,5,40,9
+	.half	.L127-.L88
+	.byte	1,5,30,9
+	.half	.L128-.L127
+	.byte	1,5,52,9
+	.half	.L129-.L128
+	.byte	1,5,17,9
+	.half	.L130-.L129
+	.byte	1,5,29,9
+	.half	.L131-.L130
+	.byte	3,1,1,5,24,9
+	.half	.L132-.L131
+	.byte	1,5,11,9
+	.half	.L133-.L132
+	.byte	3,2,1,5,25,9
+	.half	.L134-.L133
+	.byte	1,5,20,9
+	.half	.L90-.L134
+	.byte	1,5,5,9
+	.half	.L135-.L90
+	.byte	1,5,26,7,9
+	.half	.L136-.L135
+	.byte	3,2,1,5,21,9
+	.half	.L137-.L136
+	.byte	1,5,37,9
+	.half	.L138-.L137
+	.byte	1,5,16,9
+	.half	.L2-.L138
+	.byte	3,2,1,5,30,9
+	.half	.L139-.L2
+	.byte	1,5,25,9
+	.half	.L140-.L139
+	.byte	1,5,10,9
+	.half	.L141-.L140
+	.byte	1,5,26,7,9
+	.half	.L142-.L141
+	.byte	3,2,1,5,21,9
+	.half	.L143-.L142
+	.byte	1,5,15,9
+	.half	.L3-.L143
+	.byte	3,3,1,5,5,9
+	.half	.L144-.L3
+	.byte	1,5,1,9
+	.half	.L5-.L144
+	.byte	3,1,1,7,9
+	.half	.L37-.L5
+	.byte	0,1,1
+.L114:
+	.sdecl	'.debug_ranges',debug,cluster('GetPIDValue')
+	.sect	'.debug_ranges'
+.L36:
+	.word	-1,.L17,0,.L37-.L17,0,0
+	.sdecl	'.debug_info',debug,cluster('GetPIDValue2')
+	.sect	'.debug_info'
+.L38:
+	.word	267
+	.half	3
+	.word	.L39
+	.byte	4,1
+	.byte	'../code/PID.c',0
+	.byte	'TASKING VX-toolset for AURIX Development Studio (non-commercial): C compiler',0
+	.byte	'D:\\ADS\\workSpace\\Car2026_wucha_ORRn\\Debug\\',0,12,1
+	.word	.L41,.L40
+	.byte	2
+	.word	.L24
+	.byte	3
+	.byte	'GetPIDValue2',0,1,61,7
+	.word	.L56
+	.byte	1,1,1
+	.word	.L19,.L68,.L18
+	.byte	4
+	.byte	'PID',0,1,61,33
+	.word	.L54,.L69
+	.byte	4
+	.byte	'error',0,1,61,44
+	.word	.L56,.L70
+	.byte	5
+	.word	.L19,.L68
+	.byte	6
+	.byte	'P',0,1,63,11
+	.word	.L56,.L71
+	.byte	6
+	.byte	'D',0,1,63,21
+	.word	.L56,.L72
+	.byte	0,0,0
+	.sdecl	'.debug_abbrev',debug,cluster('GetPIDValue2')
+	.sect	'.debug_abbrev'
+.L39:
+	.byte	1,17,1,3,8,37,8,27,8,19,15,128,70,12,85,6,16,6,0,0,2,61,0,24,16,0,0,3,46,1,3,8,58,15,59,15,57,15,73,16
+	.byte	54,15,39,12,63,12,17,1,18,1,64,6,0,0,4,5,0,3,8,58,15,59,15,57,15,73,16,2,6,0,0,5,11,1,17,1,18,1,0,0,6
+	.byte	52,0,3,8,58,15,59,15,57,15,73,16,2,6,0,0,0
+	.sdecl	'.debug_line',debug,cluster('GetPIDValue2')
+	.sect	'.debug_line'
+.L40:
+	.word	.L146-.L145
+.L145:
+	.half	3
+	.word	.L148-.L147
+.L147:
+	.byte	2,1,-4,9,10,0,1,1,1,1,0,0,0,1,0
+	.byte	'../code/PID.c',0,0,0,0,0
+.L148:
+	.byte	5,16,7,0,5,2
+	.word	.L19
+	.byte	3,63,1,5,21,9
+	.half	.L149-.L19
+	.byte	3,2,1,5,29,9
+	.half	.L150-.L149
+	.byte	1,5,16,9
+	.half	.L151-.L150
+	.byte	1,5,12,9
+	.half	.L152-.L151
+	.byte	3,1,1,5,25,9
+	.half	.L153-.L152
+	.byte	1,5,20,9
+	.half	.L154-.L153
+	.byte	1,5,57,9
+	.half	.L92-.L154
+	.byte	3,3,1,5,22,9
+	.half	.L155-.L92
+	.byte	1,5,35,9
+	.half	.L156-.L155
+	.byte	1,5,45,9
+	.half	.L157-.L156
+	.byte	1,5,40,9
+	.half	.L158-.L157
+	.byte	1,5,30,9
+	.half	.L159-.L158
+	.byte	1,5,52,9
+	.half	.L160-.L159
+	.byte	1,5,17,9
+	.half	.L161-.L160
+	.byte	1,5,29,9
+	.half	.L162-.L161
+	.byte	3,1,1,5,24,9
+	.half	.L163-.L162
+	.byte	1,5,11,9
+	.half	.L164-.L163
+	.byte	3,2,1,5,25,9
+	.half	.L165-.L164
+	.byte	1,5,20,9
+	.half	.L93-.L165
+	.byte	1,5,5,9
+	.half	.L166-.L93
+	.byte	1,5,26,7,9
+	.half	.L167-.L166
+	.byte	3,2,1,5,21,9
+	.half	.L168-.L167
+	.byte	1,5,37,9
+	.half	.L169-.L168
+	.byte	1,5,16,9
+	.half	.L6-.L169
+	.byte	3,2,1,5,30,9
+	.half	.L170-.L6
+	.byte	1,5,25,9
+	.half	.L171-.L170
+	.byte	1,5,10,9
+	.half	.L172-.L171
+	.byte	1,5,26,7,9
+	.half	.L173-.L172
+	.byte	3,2,1,5,21,9
+	.half	.L174-.L173
+	.byte	1,5,15,9
+	.half	.L7-.L174
+	.byte	3,3,1,5,5,9
+	.half	.L175-.L7
+	.byte	1,5,1,9
+	.half	.L9-.L175
+	.byte	3,1,1,7,9
+	.half	.L42-.L9
+	.byte	0,1,1
+.L146:
+	.sdecl	'.debug_ranges',debug,cluster('GetPIDValue2')
+	.sect	'.debug_ranges'
+.L41:
+	.word	-1,.L19,0,.L42-.L19,0,0
+	.sdecl	'.debug_info',debug,cluster('Incremental_PID_Init')
+	.sect	'.debug_info'
+.L43:
+	.word	317
+	.half	3
+	.word	.L44
+	.byte	4,1
+	.byte	'../code/PID.c',0
+	.byte	'TASKING VX-toolset for AURIX Development Studio (non-commercial): C compiler',0
+	.byte	'D:\\ADS\\workSpace\\Car2026_wucha_ORRn\\Debug\\',0,12,1
+	.word	.L46,.L45
+	.byte	2
+	.word	.L24
+	.byte	3
+	.byte	'Incremental_PID_Init',0,1,90,6,1,1,1
+	.word	.L21,.L73,.L20
+	.byte	4
+	.byte	'PID',0,1,90,52
+	.word	.L74,.L75
+	.byte	4
+	.byte	'Kp',0,1,90,63
+	.word	.L56,.L76
+	.byte	4
+	.byte	'Ki',0,1,90,73
+	.word	.L56,.L77
+	.byte	4
+	.byte	'Kd',0,1,90,83
+	.word	.L56,.L78
+	.byte	4
+	.byte	'Out_Put_Max',0,1,90,93
+	.word	.L56,.L79
+	.byte	4
+	.byte	'Out_Put_Min',0,1,90,112
+	.word	.L56,.L80
+	.byte	5
+	.word	.L21,.L73
+	.byte	0,0
+	.sdecl	'.debug_abbrev',debug,cluster('Incremental_PID_Init')
+	.sect	'.debug_abbrev'
+.L44:
+	.byte	1,17,1,3,8,37,8,27,8,19,15,128,70,12,85,6,16,6,0,0,2,61,0,24,16,0,0,3,46,1,3,8,58,15,59,15,57,15,54,15
+	.byte	39,12,63,12,17,1,18,1,64,6,0,0,4,5,0,3,8,58,15,59,15,57,15,73,16,2,6,0,0,5,11,0,17,1,18,1,0,0,0
+	.sdecl	'.debug_line',debug,cluster('Incremental_PID_Init')
+	.sect	'.debug_line'
+.L45:
+	.word	.L177-.L176
+.L176:
+	.half	3
+	.word	.L179-.L178
+.L178:
+	.byte	2,1,-4,9,10,0,1,1,1,1,0,0,0,1,0
+	.byte	'../code/PID.c',0,0,0,0,0
+.L179:
+	.byte	5,6,7,0,5,2
+	.word	.L21
+	.byte	3,217,0,1,5,13,9
+	.half	.L94-.L21
+	.byte	3,2,1,9
+	.half	.L180-.L94
+	.byte	3,1,1,9
+	.half	.L181-.L180
+	.byte	3,1,1,5,18,9
+	.half	.L182-.L181
+	.byte	3,1,1,5,16,9
+	.half	.L183-.L182
+	.byte	1,5,22,9
+	.half	.L184-.L183
+	.byte	3,1,1,5,20,9
+	.half	.L185-.L184
+	.byte	1,5,21,9
+	.half	.L186-.L185
+	.byte	3,1,1,5,19,9
+	.half	.L187-.L186
+	.byte	1,5,22,9
+	.half	.L188-.L187
+	.byte	3,1,1,9
+	.half	.L189-.L188
+	.byte	3,1,1,5,1,9
+	.half	.L190-.L189
+	.byte	3,1,1,7,9
+	.half	.L47-.L190
+	.byte	0,1,1
+.L177:
+	.sdecl	'.debug_ranges',debug,cluster('Incremental_PID_Init')
+	.sect	'.debug_ranges'
+.L46:
+	.word	-1,.L21,0,.L47-.L21,0,0
+	.sdecl	'.debug_info',debug,cluster('Get_Incremental_PID_Value')
+	.sect	'.debug_info'
+.L48:
+	.word	318
+	.half	3
+	.word	.L49
+	.byte	4,1
+	.byte	'../code/PID.c',0
+	.byte	'TASKING VX-toolset for AURIX Development Studio (non-commercial): C compiler',0
+	.byte	'D:\\ADS\\workSpace\\Car2026_wucha_ORRn\\Debug\\',0,12,1
+	.word	.L51,.L50
+	.byte	2
+	.word	.L24
+	.byte	3
+	.byte	'Get_Incremental_PID_Value',0,1,107,7
+	.word	.L56
+	.byte	1,1,1
+	.word	.L23,.L81,.L22
+	.byte	4
+	.byte	'PID',0,1,107,58
+	.word	.L74,.L82
+	.byte	4
+	.byte	'Error',0,1,107,69
+	.word	.L56,.L83
+	.byte	5
+	.word	.L23,.L81
+	.byte	6
+	.byte	'P',0,1,109,11
+	.word	.L56,.L84
+	.byte	6
+	.byte	'I',0,1,109,21
+	.word	.L56,.L85
+	.byte	6
+	.byte	'D',0,1,109,29
+	.word	.L56,.L86
+	.byte	7
+	.byte	'Increment',0,1,110,18
+	.word	.L56
+	.byte	5,3
+	.word	_999001_Increment
+	.byte	0,0,0
+	.sdecl	'.debug_abbrev',debug,cluster('Get_Incremental_PID_Value')
+	.sect	'.debug_abbrev'
+.L49:
+	.byte	1,17,1,3,8,37,8,27,8,19,15,128,70,12,85,6,16,6,0,0,2,61,0,24,16,0,0,3,46,1,3,8,58,15,59,15,57,15,73,16
+	.byte	54,15,39,12,63,12,17,1,18,1,64,6,0,0,4,5,0,3,8,58,15,59,15,57,15,73,16,2,6,0,0,5,11,1,17,1,18,1,0,0,6
+	.byte	52,0,3,8,58,15,59,15,57,15,73,16,2,6,0,0,7,52,0,3,8,58,15,59,15,57,15,73,16,2,9,0,0,0
+	.sdecl	'.debug_line',debug,cluster('Get_Incremental_PID_Value')
+	.sect	'.debug_line'
+.L50:
+	.word	.L192-.L191
+.L191:
+	.half	3
+	.word	.L194-.L193
+.L193:
+	.byte	2,1,-4,9,10,0,1,1,1,1,0,0,0,1,0
+	.byte	'../code/PID.c',0,0,0,0,0
+.L194:
+	.byte	5,16,7,0,5,2
+	.word	.L23
+	.byte	3,239,0,1,5,25,9
+	.half	.L195-.L23
+	.byte	3,2,1,5,20,9
+	.half	.L196-.L195
+	.byte	1,5,27,9
+	.half	.L95-.L196
+	.byte	3,2,1,5,22,9
+	.half	.L197-.L95
+	.byte	1,5,20,9
+	.half	.L198-.L197
+	.byte	1,5,45,9
+	.half	.L199-.L198
+	.byte	1,5,40,9
+	.half	.L200-.L199
+	.byte	1,5,5,9
+	.half	.L97-.L200
+	.byte	3,2,1,5,44,9
+	.half	.L201-.L97
+	.byte	1,5,20,9
+	.half	.L202-.L201
+	.byte	1,5,32,9
+	.half	.L203-.L202
+	.byte	1,5,36,9
+	.half	.L204-.L203
+	.byte	1,5,27,9
+	.half	.L205-.L204
+	.byte	1,5,39,9
+	.half	.L206-.L205
+	.byte	1,5,15,9
+	.half	.L207-.L206
+	.byte	1,5,25,9
+	.half	.L208-.L207
+	.byte	3,2,1,5,20,9
+	.half	.L209-.L208
+	.byte	1,5,26,9
+	.half	.L210-.L209
+	.byte	3,1,1,5,21,9
+	.half	.L211-.L210
+	.byte	1,5,22,9
+	.half	.L212-.L211
+	.byte	3,2,1,5,33,9
+	.half	.L213-.L212
+	.byte	1,5,31,9
+	.half	.L96-.L213
+	.byte	1,5,17,9
+	.half	.L214-.L96
+	.byte	1,5,11,9
+	.half	.L215-.L214
+	.byte	3,2,1,5,25,9
+	.half	.L216-.L215
+	.byte	1,5,20,9
+	.half	.L217-.L216
+	.byte	1,5,5,9
+	.half	.L218-.L217
+	.byte	1,5,26,7,9
+	.half	.L219-.L218
+	.byte	3,2,1,5,21,9
+	.half	.L220-.L219
+	.byte	1,5,39,9
+	.half	.L221-.L220
+	.byte	1,5,16,9
+	.half	.L10-.L221
+	.byte	3,2,1,5,30,9
+	.half	.L222-.L10
+	.byte	1,5,25,9
+	.half	.L223-.L222
+	.byte	1,5,10,9
+	.half	.L224-.L223
+	.byte	1,5,26,7,9
+	.half	.L225-.L224
+	.byte	3,2,1,5,21,9
+	.half	.L226-.L225
+	.byte	1,5,15,9
+	.half	.L11-.L226
+	.byte	3,3,1,5,5,9
+	.half	.L227-.L11
+	.byte	1,5,1,9
+	.half	.L13-.L227
+	.byte	3,1,1,7,9
+	.half	.L52-.L13
+	.byte	0,1,1
+.L192:
+	.sdecl	'.debug_ranges',debug,cluster('Get_Incremental_PID_Value')
+	.sect	'.debug_ranges'
+.L51:
+	.word	-1,.L23,0,.L52-.L23,0,0
+	.sdecl	'.debug_loc',debug,cluster('GetPIDValue')
+	.sect	'.debug_loc'
+.L67:
+	.word	-1,.L17,.L91-.L17,.L62-.L17
+	.half	1
+	.byte	81
+	.word	0,0
+.L16:
+	.word	-1,.L17,0,.L62-.L17
+	.half	2
+	.byte	138,0
+	.word	0,0
+.L66:
+	.word	-1,.L17,.L89-.L17,.L90-.L17
+	.half	5
+	.byte	144,32,157,32,0
+	.word	0,0
+.L63:
+	.word	-1,.L17,0,.L62-.L17
+	.half	1
+	.byte	100
+	.word	0,0
+.L64:
+	.word	-1,.L17,0,.L88-.L17
+	.half	1
+	.byte	84
+	.word	0,0
+.L65:
+	.word	-1,.L17,0,.L62-.L17
+	.half	1
+	.byte	85
+	.word	0,0
+	.sdecl	'.debug_loc',debug,cluster('GetPIDValue2')
+	.sect	'.debug_loc'
+.L72:
+	.word	-1,.L19,.L92-.L19,.L93-.L19
+	.half	5
+	.byte	144,32,157,32,0
+	.word	0,0
+.L18:
+	.word	-1,.L19,0,.L68-.L19
+	.half	2
+	.byte	138,0
+	.word	0,0
+.L71:
+	.word	-1,.L19,0,.L68-.L19
+	.half	1
+	.byte	84
+	.word	0,0
+.L69:
+	.word	-1,.L19,0,.L68-.L19
+	.half	1
+	.byte	100
+	.word	0,0
+.L70:
+	.word	-1,.L19,0,.L68-.L19
+	.half	1
+	.byte	84
+	.word	0,0
+	.sdecl	'.debug_loc',debug,cluster('Get_Incremental_PID_Value')
+	.sect	'.debug_loc'
+.L86:
+	.word	-1,.L23,.L97-.L23,.L81-.L23
+	.half	1
+	.byte	81
+	.word	0,0
+.L83:
+	.word	-1,.L23,0,.L81-.L23
+	.half	1
+	.byte	84
+	.word	0,0
+.L22:
+	.word	-1,.L23,0,.L81-.L23
+	.half	2
+	.byte	138,0
+	.word	0,0
+.L85:
+	.word	-1,.L23,0,.L81-.L23
+	.half	1
+	.byte	84
+	.word	0,0
+.L84:
+	.word	-1,.L23,.L95-.L23,.L96-.L23
+	.half	5
+	.byte	144,32,157,32,0
+	.word	0,0
+.L82:
+	.word	-1,.L23,0,.L81-.L23
+	.half	1
+	.byte	100
+	.word	0,0
+	.sdecl	'.debug_loc',debug,cluster('Incremental_PID_Init')
+	.sect	'.debug_loc'
+.L20:
+	.word	-1,.L21,0,.L73-.L21
+	.half	2
+	.byte	138,0
+	.word	0,0
+.L78:
+	.word	-1,.L21,0,.L73-.L21
+	.half	1
+	.byte	86
+	.word	0,0
+.L77:
+	.word	-1,.L21,0,.L73-.L21
+	.half	1
+	.byte	85
+	.word	0,0
+.L76:
+	.word	-1,.L21,0,.L73-.L21
+	.half	1
+	.byte	84
+	.word	0,0
+.L79:
+	.word	-1,.L21,0,.L73-.L21
+	.half	1
+	.byte	87
+	.word	0,0
+.L80:
+	.word	-1,.L21,0,.L73-.L21
+	.half	2
+	.byte	145,0
+	.word	0,.L73-.L21
+	.half	2
+	.byte	145,0
+	.word	.L94-.L21,.L73-.L21
+	.half	5
+	.byte	144,32,157,32,0
+	.word	0,0
+.L75:
+	.word	-1,.L21,0,.L73-.L21
+	.half	1
+	.byte	100
+	.word	0,0
+	.sdecl	'.debug_loc',debug,cluster('PID_Init')
+	.sect	'.debug_loc'
+.L59:
+	.word	-1,.L15,0,.L53-.L15
+	.half	1
+	.byte	86
+	.word	0,0
+.L58:
+	.word	-1,.L15,0,.L53-.L15
+	.half	1
+	.byte	85
+	.word	0,0
+.L57:
+	.word	-1,.L15,0,.L53-.L15
+	.half	1
+	.byte	84
+	.word	0,0
+.L60:
+	.word	-1,.L15,0,.L53-.L15
+	.half	1
+	.byte	87
+	.word	0,0
+.L61:
+	.word	-1,.L15,0,.L53-.L15
+	.half	2
+	.byte	145,0
+	.word	0,.L53-.L15
+	.half	2
+	.byte	145,0
+	.word	.L87-.L15,.L53-.L15
+	.half	5
+	.byte	144,32,157,32,0
+	.word	0,0
+.L55:
+	.word	-1,.L15,0,.L53-.L15
+	.half	1
+	.byte	100
+	.word	0,0
+.L14:
+	.word	-1,.L15,0,.L53-.L15
+	.half	2
+	.byte	138,0
+	.word	0,0
+	.sdecl	'.debug_frame',debug
+	.sect	'.debug_frame'
+.L228:
+	.word	48
+	.word	-1
+	.byte	3,0,2,1,27,12,26,0,8,26,8,27,8,30,8,29,8,28,8,16,8,17,8,24,8,25,8,31,8,32,8,33,8,34,8,35,8,36,8,37,8,38
+	.byte	8,39
+	.sdecl	'.debug_frame',debug,cluster('PID_Init')
+	.sect	'.debug_frame'
+	.word	24
+	.word	.L228,.L15,.L53-.L15
+	.byte	8,18,8,19,8,21,8,22,8,23,0,0
+	.sdecl	'.debug_frame',debug,cluster('GetPIDValue')
+	.sect	'.debug_frame'
+	.word	24
+	.word	.L228,.L17,.L62-.L17
+	.byte	8,18,8,19,8,21,8,22,8,23,0,0
+	.sdecl	'.debug_frame',debug,cluster('GetPIDValue2')
+	.sect	'.debug_frame'
+	.word	24
+	.word	.L228,.L19,.L68-.L19
+	.byte	8,18,8,19,8,21,8,22,8,23,0,0
+	.sdecl	'.debug_frame',debug,cluster('Incremental_PID_Init')
+	.sect	'.debug_frame'
+	.word	24
+	.word	.L228,.L21,.L73-.L21
+	.byte	8,18,8,19,8,21,8,22,8,23,0,0
+	.sdecl	'.debug_frame',debug,cluster('Get_Incremental_PID_Value')
+	.sect	'.debug_frame'
+	.word	24
+	.word	.L228,.L23,.L81-.L23
+	.byte	8,18,8,19,8,21,8,22,8,23,0,0
+	; Module end

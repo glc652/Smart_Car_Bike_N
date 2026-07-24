@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="com.rt.hightec.agent.launcher.launchConfigurationType">
+    <stringAttribute key="ACC_HW" value="DAS JDS TriBoard TC3XX V2.0 TBB2NGNG"/>
+    <booleanAttribute key="ENABLE_AGENTLOG" value="false"/>
+    <booleanAttribute key="ENABLE_FLASHING" value="true"/>
+    <booleanAttribute key="ENABLE_STOPPING" value="true"/>
+    <stringAttribute key="EXECUTABLE_PATH" value="${workspace_loc}/Car2026_wucha_ORRn/Debug/Seekfree_TC264_Opensource_Library.elf"/>
+    <stringAttribute key="STOP_FUNCTION" value="core0_main"/>
+    <stringAttribute key="SVD" value="D:/ADS/AURIX-Studio-1.10.24/build_system/bundled-artefacts-repo/svd/tc26xbpd/1.0-1/device.svd"/>
+    <stringAttribute key="org.eclipse.cdt.launch.PROJECT_ATTR" value="Car2026_wucha_ORRn"/>
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+        <listEntry value="/Car2026_wucha_ORRn"/>
+    </listAttribute>
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+        <listEntry value="4"/>
+    </listAttribute>
+    <stringAttribute key="org.eclipse.debug.ui.ATTR_LOCATION" value="/Car2026_wucha_ORRn/Car2026_wucha_ORRn Debug.launch"/>
+    <stringAttribute key="org.eclipse.debug.ui.ATTR_PROJECT_NAME" value="Car2026_wucha_ORRn"/>
+    <booleanAttribute key="org.eclipse.debug.ui.ATTR_SHARED" value="true"/>
+    <stringAttribute key="org.eclipse.tcf.debug.MemoryMap" value="[{&quot;FileName&quot;:&quot;D:/ADS/workSpace/Car2026_wucha_ORRn/Debug/Seekfree_TC264_Opensource_Library.elf&quot;,&quot;ID&quot;:&quot;/DAS JDS TriBoard TC3XX V2.0 TBB2NGNG/Core 0: CPU0 TriCore 1.6E&quot;,&quot;Flags&quot;:0,&quot;UUID&quot;:&quot;75849525-2339-42c7-b1e3-a7b71ac36a02&quot;},{&quot;FileName&quot;:&quot;D:/ADS/workSpace/Car2026_wucha_ORRn/Debug/Seekfree_TC264_Opensource_Library.elf&quot;,&quot;ID&quot;:&quot;/DAS JDS TriBoard TC3XX V2.0 TBB2NGNG/Core 0: CPU0 TriCore 1.6E&quot;,&quot;Flags&quot;:0,&quot;UUID&quot;:&quot;b9f9fd95-fd99-41cf-ad29-80b1ade5aac2&quot;},{&quot;FileName&quot;:&quot;D:/ADS/workSpace/Car2026_wucha_ORRn/Debug/Seekfree_TC264_Opensource_Library.elf&quot;,&quot;ID&quot;:&quot;/DAS JDS TriBoard TC3XX V2.0 TBB2NGNG/Core 0: CPU0 TriCore 1.6E&quot;,&quot;Flags&quot;:0,&quot;UUID&quot;:&quot;7cb33bb0-4d87-4f57-a5fe-31aa8f35f71a&quot;},{&quot;FileName&quot;:&quot;D:/ADS/workSpace/Car2026_wucha_ORRn/Debug/Seekfree_TC264_Opensource_Library.elf&quot;,&quot;ID&quot;:&quot;/DAS JDS TriBoard TC3XX V2.0 TBB2NGNG/Core 1: CPU1 TriCore 1.6P&quot;,&quot;Flags&quot;:0,&quot;UUID&quot;:&quot;c267ed1d-b645-425a-b81c-e7199e6a4ced&quot;},{&quot;FileName&quot;:&quot;D:/ADS/workSpace/Car2026_wucha_ORRn/Debug/Seekfree_TC264_Opensource_Library.elf&quot;,&quot;ID&quot;:&quot;/DAS JDS TriBoard TC3XX V2.0 TBB2NGNG/Core 0: CPU0 TriCore 1.6E&quot;,&quot;Flags&quot;:0,&quot;UUID&quot;:&quot;b5ddb575-6219-45a9-b0b5-5d084b744aaf&quot;},{&quot;FileName&quot;:&quot;D:/ADS/workSpace/Car2026_wucha_ORRn/Debug/Seekfree_TC264_Opensource_Library.elf&quot;,&quot;ID&quot;:&quot;/DAS JDS TriBoard TC3XX V2.0 TBB2NGNG/Core 1: CPU1 TriCore 1.6P&quot;,&quot;Flags&quot;:0,&quot;UUID&quot;:&quot;8ca5b9d4-4f45-47af-8941-6cb27dcf865a&quot;}]"/>
+    <stringAttribute key="org.eclipse.tcf.debug.PeerID" value="TCP:127.0.0.1:1534"/>
+    <stringAttribute key="org.eclipse.tcf.debug.ProjectName" value="Car2026_wucha_ORRn"/>
+    <booleanAttribute key="org.eclipse.tcf.debug.RunLocalAgent" value="false"/>
+    <booleanAttribute key="org.eclipse.tcf.debug.RunLocalServer" value="false"/>
+    <booleanAttribute key="org.eclipse.tcf.debug.UseLocalAgent" value="false"/>
+    <stringAttribute key="org.eclipse.tcf.debug.executable_name" value="${workspace_loc}/Car2026_wucha_ORRn/Debug/Seekfree_TC264_Opensource_Library.elf"/>
+    <stringAttribute key="sessionID" value="b0edde91-e9c0-4dce-8e08-0a98d3501118"/>
+</launchConfiguration>

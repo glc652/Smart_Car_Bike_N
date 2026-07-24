@@ -1,0 +1,68 @@
+IfxPsi5.o :	../libraries/infineon_libraries/iLLD/TC26B/Tricore/Psi5/Std/IfxPsi5.c
+../libraries/infineon_libraries/iLLD/TC26B/Tricore/Psi5/Std/IfxPsi5.c :
+IfxPsi5.o :	..\libraries\infineon_libraries\iLLD\TC26B\Tricore\Psi5\Std\IfxPsi5.h
+..\libraries\infineon_libraries\iLLD\TC26B\Tricore\Psi5\Std\IfxPsi5.h :
+IfxPsi5.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E2_encoder\\E2_02_encoder_quadrature_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\_Impl\IfxPsi5_cfg.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E2_encoder\\E2_02_encoder_quadrature_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\_Impl\IfxPsi5_cfg.h" :
+IfxPsi5.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E2_encoder\\E2_02_encoder_quadrature_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\_PinMap\IfxPsi5_PinMap.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E2_encoder\\E2_02_encoder_quadrature_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\_PinMap\IfxPsi5_PinMap.h" :
+IfxPsi5.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E2_encoder\\E2_02_encoder_quadrature_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxPsi5_reg.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E2_encoder\\E2_02_encoder_quadrature_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxPsi5_reg.h" :
+IfxPsi5.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E2_encoder\\E2_02_encoder_quadrature_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxPsi5_regdef.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E2_encoder\\E2_02_encoder_quadrature_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxPsi5_regdef.h" :
+IfxPsi5.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E2_encoder\\E2_02_encoder_quadrature_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\Ifx_TypesReg.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E2_encoder\\E2_02_encoder_quadrature_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\Ifx_TypesReg.h" :
+IfxPsi5.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E2_encoder\\E2_02_encoder_quadrature_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Port\Std\IfxPort.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E2_encoder\\E2_02_encoder_quadrature_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Port\Std\IfxPort.h" :
+IfxPsi5.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E2_encoder\\E2_02_encoder_quadrature_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\_Impl\IfxPort_cfg.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E2_encoder\\E2_02_encoder_quadrature_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\_Impl\IfxPort_cfg.h" :
+IfxPsi5.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E2_encoder\\E2_02_encoder_quadrature_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\IfxCpu_Intrinsics.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E2_encoder\\E2_02_encoder_quadrature_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\IfxCpu_Intrinsics.h" :
+IfxPsi5.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E2_encoder\\E2_02_encoder_quadrature_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\Ifx_Types.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E2_encoder\\E2_02_encoder_quadrature_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\Ifx_Types.h" :
+IfxPsi5.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E2_encoder\\E2_02_encoder_quadrature_demo\\libraries\\infineon_libraries\\Infra\\Platform\Tricore\Compilers\Compilers.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E2_encoder\\E2_02_encoder_quadrature_demo\\libraries\\infineon_libraries\\Infra\\Platform\Tricore\Compilers\Compilers.h" :
+IfxPsi5.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E2_encoder\\E2_02_encoder_quadrature_demo\\libraries\\infineon_libraries\\Configurations\Ifx_Cfg.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E2_encoder\\E2_02_encoder_quadrature_demo\\libraries\\infineon_libraries\\Configurations\Ifx_Cfg.h" :
+IfxPsi5.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E2_encoder\\E2_02_encoder_quadrature_demo\\libraries\\infineon_libraries\\Infra\\Platform\Tricore\Compilers\CompilerTasking.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E2_encoder\\E2_02_encoder_quadrature_demo\\libraries\\infineon_libraries\\Infra\\Platform\Tricore\Compilers\CompilerTasking.h" :
+IfxPsi5.o :	"D:\ADS\AURIX-Studio-1.10.24\tools\Compilers\Tasking_1.1r8\ctc\include\stddef.h"
+"D:\ADS\AURIX-Studio-1.10.24\tools\Compilers\Tasking_1.1r8\ctc\include\stddef.h" :
+IfxPsi5.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E2_encoder\\E2_02_encoder_quadrature_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\Platform_Types.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E2_encoder\\E2_02_encoder_quadrature_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\Platform_Types.h" :
+IfxPsi5.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E2_encoder\\E2_02_encoder_quadrature_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\Ifx_TypesTasking.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E2_encoder\\E2_02_encoder_quadrature_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\Ifx_TypesTasking.h" :
+IfxPsi5.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E2_encoder\\E2_02_encoder_quadrature_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\IfxCpu_IntrinsicsTasking.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E2_encoder\\E2_02_encoder_quadrature_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\IfxCpu_IntrinsicsTasking.h" :
+IfxPsi5.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E2_encoder\\E2_02_encoder_quadrature_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxPort_reg.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E2_encoder\\E2_02_encoder_quadrature_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxPort_reg.h" :
+IfxPsi5.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E2_encoder\\E2_02_encoder_quadrature_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxPort_regdef.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E2_encoder\\E2_02_encoder_quadrature_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxPort_regdef.h" :
+IfxPsi5.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E2_encoder\\E2_02_encoder_quadrature_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Scu\Std\IfxScuWdt.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E2_encoder\\E2_02_encoder_quadrature_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Scu\Std\IfxScuWdt.h" :
+IfxPsi5.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E2_encoder\\E2_02_encoder_quadrature_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\_Impl\IfxScu_cfg.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E2_encoder\\E2_02_encoder_quadrature_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\_Impl\IfxScu_cfg.h" :
+IfxPsi5.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E2_encoder\\E2_02_encoder_quadrature_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxScu_bf.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E2_encoder\\E2_02_encoder_quadrature_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxScu_bf.h" :
+IfxPsi5.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E2_encoder\\E2_02_encoder_quadrature_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxFlash_bf.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E2_encoder\\E2_02_encoder_quadrature_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxFlash_bf.h" :
+IfxPsi5.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E2_encoder\\E2_02_encoder_quadrature_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\Ifx_Types.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E2_encoder\\E2_02_encoder_quadrature_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\Ifx_Types.h" :
+IfxPsi5.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E2_encoder\\E2_02_encoder_quadrature_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxScu_reg.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E2_encoder\\E2_02_encoder_quadrature_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxScu_reg.h" :
+IfxPsi5.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E2_encoder\\E2_02_encoder_quadrature_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxScu_regdef.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E2_encoder\\E2_02_encoder_quadrature_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxScu_regdef.h" :
+IfxPsi5.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E2_encoder\\E2_02_encoder_quadrature_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Scu\Std\IfxScuWdt.asm.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E2_encoder\\E2_02_encoder_quadrature_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Scu\Std\IfxScuWdt.asm.h" :
+IfxPsi5.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E2_encoder\\E2_02_encoder_quadrature_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\Ifx_Types.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E2_encoder\\E2_02_encoder_quadrature_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\Ifx_Types.h" :
+IfxPsi5.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E2_encoder\\E2_02_encoder_quadrature_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Scu\Std\IfxScuWdt.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E2_encoder\\E2_02_encoder_quadrature_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Scu\Std\IfxScuWdt.h" :
+IfxPsi5.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E2_encoder\\E2_02_encoder_quadrature_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Src\Std\IfxSrc.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E2_encoder\\E2_02_encoder_quadrature_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Src\Std\IfxSrc.h" :
+IfxPsi5.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E2_encoder\\E2_02_encoder_quadrature_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\_Impl\IfxSrc_cfg.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E2_encoder\\E2_02_encoder_quadrature_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\_Impl\IfxSrc_cfg.h" :
+IfxPsi5.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E2_encoder\\E2_02_encoder_quadrature_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxSrc_reg.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E2_encoder\\E2_02_encoder_quadrature_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxSrc_reg.h" :
+IfxPsi5.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E2_encoder\\E2_02_encoder_quadrature_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxSrc_regdef.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E2_encoder\\E2_02_encoder_quadrature_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxSrc_regdef.h" :

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="com.rt.hightec.agent.launcher.launchConfigurationType">
+    <stringAttribute key="ACC_HW" value="DAS JDS TriBoard TC3XX V2.0 TBB2NGNG"/>
+    <booleanAttribute key="ENABLE_AGENTLOG" value="false"/>
+    <booleanAttribute key="ENABLE_FLASHING" value="true"/>
+    <booleanAttribute key="ENABLE_STOPPING" value="true"/>
+    <stringAttribute key="EXECUTABLE_PATH" value="${project_loc}/Debug/E02_uart_demo.elf"/>
+    <stringAttribute key="STOP_FUNCTION" value="core0_main"/>
+    <stringAttribute key="SVD" value="D:/ADS/AURIX-Studio-1.10.24/build_system/bundled-artefacts-repo/svd/tc26xbpd/1.0-1/device.svd"/>
+    <stringAttribute key="org.eclipse.cdt.launch.PROJECT_ATTR" value="E02_uart_demo"/>
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+        <listEntry value="/E02_uart_demo"/>
+    </listAttribute>
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+        <listEntry value="4"/>
+    </listAttribute>
+    <stringAttribute key="org.eclipse.debug.ui.ATTR_LOCATION" value="/E02_uart_demo/E02_uart_demo Debug.launch"/>
+    <stringAttribute key="org.eclipse.debug.ui.ATTR_PROJECT_NAME" value="E02_uart_demo"/>
+    <booleanAttribute key="org.eclipse.debug.ui.ATTR_SHARED" value="true"/>
+    <stringAttribute key="org.eclipse.tcf.debug.MemoryMap" value="[{&quot;FileName&quot;:&quot;E:/Smart_Car_2025/TC264_Library-master/Example/Example_general/Coreboard_Demo/E02_uart_demo/Debug/E02_uart_demo.elf&quot;,&quot;ID&quot;:&quot;/DAS JDS TriBoard TC3XX V2.0 TBB2NGNG/Core 0: CPU0 TriCore 1.6E&quot;,&quot;Flags&quot;:0,&quot;UUID&quot;:&quot;a99be261-d59e-4285-974d-bf1ea7f4917c&quot;},{&quot;FileName&quot;:&quot;E:/Smart_Car_2025/TC264_Library-master/Example/Example_general/Coreboard_Demo/E02_uart_demo/Debug/E02_uart_demo.elf&quot;,&quot;ID&quot;:&quot;/DAS JDS TriBoard TC3XX V2.0 TBB2NGNG/Core 0: CPU0 TriCore 1.6E&quot;,&quot;Flags&quot;:0,&quot;UUID&quot;:&quot;df6e5a5b-d871-4f35-8aba-c8919f730c3a&quot;},{&quot;FileName&quot;:&quot;E:/Smart_Car_2025/TC264_Library-master/Example/Example_general/Coreboard_Demo/E02_uart_demo/Debug/E02_uart_demo.elf&quot;,&quot;ID&quot;:&quot;/DAS JDS TriBoard TC3XX V2.0 TBB2NGNG/Core 0: CPU0 TriCore 1.6E&quot;,&quot;Flags&quot;:0,&quot;UUID&quot;:&quot;f4522a28-fc5d-4616-a454-10070bfa19fe&quot;},{&quot;FileName&quot;:&quot;E:/Smart_Car_2025/TC264_Library-master/Example/Example_general/Coreboard_Demo/E02_uart_demo/Debug/E02_uart_demo.elf&quot;,&quot;ID&quot;:&quot;/DAS JDS TriBoard TC3XX V2.0 TBB2NGNG/Core 1: CPU1 TriCore 1.6P&quot;,&quot;Flags&quot;:0,&quot;UUID&quot;:&quot;753f3804-f4f6-4ef8-9253-bf1b69fff09f&quot;},{&quot;FileName&quot;:&quot;E:/Smart_Car_2025/TC264_Library-master/Example/Example_general/Coreboard_Demo/E02_uart_demo/Debug/E02_uart_demo.elf&quot;,&quot;ID&quot;:&quot;/DAS JDS TriBoard TC3XX V2.0 TBB2NGNG/Core 0: CPU0 TriCore 1.6E&quot;,&quot;Flags&quot;:0,&quot;UUID&quot;:&quot;891b8aff-06a3-4df3-9569-8499b770c21c&quot;},{&quot;FileName&quot;:&quot;E:/Smart_Car_2025/TC264_Library-master/Example/Example_general/Coreboard_Demo/E02_uart_demo/Debug/E02_uart_demo.elf&quot;,&quot;ID&quot;:&quot;/DAS JDS TriBoard TC3XX V2.0 TBB2NGNG/Core 1: CPU1 TriCore 1.6P&quot;,&quot;Flags&quot;:0,&quot;UUID&quot;:&quot;a9720e16-0b6a-45ca-b470-f1c6e4cd7dde&quot;}]"/>
+    <stringAttribute key="org.eclipse.tcf.debug.PeerID" value="TCP:127.0.0.1:1534"/>
+    <stringAttribute key="org.eclipse.tcf.debug.ProjectName" value="E02_uart_demo"/>
+    <booleanAttribute key="org.eclipse.tcf.debug.RunLocalAgent" value="false"/>
+    <booleanAttribute key="org.eclipse.tcf.debug.RunLocalServer" value="false"/>
+    <booleanAttribute key="org.eclipse.tcf.debug.UseLocalAgent" value="false"/>
+    <stringAttribute key="org.eclipse.tcf.debug.executable_name" value="${project_loc}/Debug/E02_uart_demo.elf"/>
+    <stringAttribute key="sessionID" value="85c7675d-e09a-459a-a433-43050dc764ea"/>
+</launchConfiguration>

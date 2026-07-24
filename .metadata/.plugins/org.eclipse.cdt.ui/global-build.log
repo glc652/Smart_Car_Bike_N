@@ -1,0 +1,17 @@
+21:48:21 **** Clean-only build of configuration Debug for project F_Car_Final ****
+amk -j24 clean 
+TASKING VX-toolset for AURIX Development Studio (non-commercial): program builder v1.1r8 Build 22011964
+amk F126: [".metadata/.plugins/org.eclipse.cdt.make.core/subdir.mk" 31/0] duplicate action for ".metadata/.plugins/org.eclipse.cdt.make.core/specs.src"
+"amk -j24 clean" terminated with exit code 2. Build might be incomplete.
+Build started...
+21:48:25 **** Build of configuration Debug for project F_Car_Final ****
+amk -j24 all 
+TASKING VX-toolset for AURIX Development Studio (non-commercial): program builder v1.1r8 Build 22011964
+amk F126: [".metadata/.plugins/org.eclipse.cdt.make.core/subdir.mk" 31/0] duplicate action for ".metadata/.plugins/org.eclipse.cdt.make.core/specs.src"
+"amk -j24 all" terminated with exit code 2. Build might be incomplete.
+Build started...
+21:50:38 **** Build of configuration Debug for project F_Car_Final ****
+amk -j24 all 
+TASKING VX-toolset for AURIX Development Studio (non-commercial): program builder v1.1r8 Build 22011964
+amk F126: [".metadata/.plugins/org.eclipse.cdt.make.core/subdir.mk" 31/0] duplicate action for ".metadata/.plugins/org.eclipse.cdt.make.core/specs.src"
+"amk -j24 all" terminated with exit code 2. Build might be incomplete.
