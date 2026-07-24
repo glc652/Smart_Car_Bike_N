@@ -1,0 +1,104 @@
+IfxPsi5s_Psi5s.o :	../libraries/infineon_libraries/iLLD/TC26B/Tricore/Psi5s/Psi5s/IfxPsi5s_Psi5s.c
+../libraries/infineon_libraries/iLLD/TC26B/Tricore/Psi5s/Psi5s/IfxPsi5s_Psi5s.c :
+IfxPsi5s_Psi5s.o :	..\libraries\infineon_libraries\iLLD\TC26B\Tricore\Psi5s\Psi5s\IfxPsi5s_Psi5s.h
+..\libraries\infineon_libraries\iLLD\TC26B\Tricore\Psi5s\Psi5s\IfxPsi5s_Psi5s.h :
+IfxPsi5s_Psi5s.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Psi5s\Std\IfxPsi5s.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Psi5s\Std\IfxPsi5s.h" :
+IfxPsi5s_Psi5s.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\_Impl\IfxPsi5s_cfg.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\_Impl\IfxPsi5s_cfg.h" :
+IfxPsi5s_Psi5s.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\_PinMap\IfxPsi5s_PinMap.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\_PinMap\IfxPsi5s_PinMap.h" :
+IfxPsi5s_Psi5s.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxPsi5s_reg.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxPsi5s_reg.h" :
+IfxPsi5s_Psi5s.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxPsi5s_regdef.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxPsi5s_regdef.h" :
+IfxPsi5s_Psi5s.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\Ifx_TypesReg.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\Ifx_TypesReg.h" :
+IfxPsi5s_Psi5s.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Port\Std\IfxPort.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Port\Std\IfxPort.h" :
+IfxPsi5s_Psi5s.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\_Impl\IfxPort_cfg.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\_Impl\IfxPort_cfg.h" :
+IfxPsi5s_Psi5s.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\IfxCpu_Intrinsics.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\IfxCpu_Intrinsics.h" :
+IfxPsi5s_Psi5s.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\Ifx_Types.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\Ifx_Types.h" :
+IfxPsi5s_Psi5s.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\Infra\\Platform\Tricore\Compilers\Compilers.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\Infra\\Platform\Tricore\Compilers\Compilers.h" :
+IfxPsi5s_Psi5s.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\Configurations\Ifx_Cfg.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\Configurations\Ifx_Cfg.h" :
+IfxPsi5s_Psi5s.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\Infra\\Platform\Tricore\Compilers\CompilerTasking.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\Infra\\Platform\Tricore\Compilers\CompilerTasking.h" :
+IfxPsi5s_Psi5s.o :	"D:\ADS\AURIX-Studio-1.10.24\tools\Compilers\Tasking_1.1r8\ctc\include\stddef.h"
+"D:\ADS\AURIX-Studio-1.10.24\tools\Compilers\Tasking_1.1r8\ctc\include\stddef.h" :
+IfxPsi5s_Psi5s.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\Platform_Types.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\Platform_Types.h" :
+IfxPsi5s_Psi5s.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\Ifx_TypesTasking.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\Ifx_TypesTasking.h" :
+IfxPsi5s_Psi5s.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\IfxCpu_IntrinsicsTasking.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\IfxCpu_IntrinsicsTasking.h" :
+IfxPsi5s_Psi5s.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxPort_reg.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxPort_reg.h" :
+IfxPsi5s_Psi5s.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxPort_regdef.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxPort_regdef.h" :
+IfxPsi5s_Psi5s.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Scu\Std\IfxScuWdt.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Scu\Std\IfxScuWdt.h" :
+IfxPsi5s_Psi5s.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\_Impl\IfxScu_cfg.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\_Impl\IfxScu_cfg.h" :
+IfxPsi5s_Psi5s.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxScu_bf.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxScu_bf.h" :
+IfxPsi5s_Psi5s.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxFlash_bf.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxFlash_bf.h" :
+IfxPsi5s_Psi5s.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\Ifx_Types.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\Ifx_Types.h" :
+IfxPsi5s_Psi5s.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxScu_reg.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxScu_reg.h" :
+IfxPsi5s_Psi5s.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxScu_regdef.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxScu_regdef.h" :
+IfxPsi5s_Psi5s.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Scu\Std\IfxScuWdt.asm.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Scu\Std\IfxScuWdt.asm.h" :
+IfxPsi5s_Psi5s.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\Ifx_Types.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\Ifx_Types.h" :
+IfxPsi5s_Psi5s.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxPsi5s_bf.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxPsi5s_bf.h" :
+IfxPsi5s_Psi5s.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Src\Std\IfxSrc.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Src\Std\IfxSrc.h" :
+IfxPsi5s_Psi5s.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\_Impl\IfxSrc_cfg.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\_Impl\IfxSrc_cfg.h" :
+IfxPsi5s_Psi5s.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxSrc_reg.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxSrc_reg.h" :
+IfxPsi5s_Psi5s.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxSrc_regdef.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxSrc_regdef.h" :
+IfxPsi5s_Psi5s.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Scu\Std\IfxScuCcu.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Scu\Std\IfxScuCcu.h" :
+IfxPsi5s_Psi5s.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Scu\Std\IfxScuWdt.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Scu\Std\IfxScuWdt.h" :
+IfxPsi5s_Psi5s.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\IfxCpu.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\IfxCpu.h" :
+IfxPsi5s_Psi5s.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\_Impl\IfxCpu_cfg.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\_Impl\IfxCpu_cfg.h" :
+IfxPsi5s_Psi5s.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxCpu_reg.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxCpu_reg.h" :
+IfxPsi5s_Psi5s.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxCpu_regdef.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxCpu_regdef.h" :
+IfxPsi5s_Psi5s.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxStm_reg.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxStm_reg.h" :
+IfxPsi5s_Psi5s.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxStm_regdef.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxStm_regdef.h" :
+IfxPsi5s_Psi5s.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\Service\\CpuGeneric\_Utilities\Ifx_Assert.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\Service\\CpuGeneric\_Utilities\Ifx_Assert.h" :
+IfxPsi5s_Psi5s.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\Ifx_Types.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\Ifx_Types.h" :
+IfxPsi5s_Psi5s.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Scu\Std\IfxScuWdt.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Scu\Std\IfxScuWdt.h" :
+IfxPsi5s_Psi5s.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Scu\Std\IfxScuCcu.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Scu\Std\IfxScuCcu.h" :
+IfxPsi5s_Psi5s.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxFlash_reg.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxFlash_reg.h" :
+IfxPsi5s_Psi5s.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxFlash_regdef.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxFlash_regdef.h" :
+IfxPsi5s_Psi5s.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\_PinMap\IfxScu_PinMap.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\_PinMap\IfxScu_PinMap.h" :
+IfxPsi5s_Psi5s.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Port\Std\IfxPort.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Port\Std\IfxPort.h" :
+IfxPsi5s_Psi5s.o :	"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Scu\Std\IfxScuWdt.h"
+"E:\\Smart_Car_2025\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_05_bldc_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Scu\Std\IfxScuWdt.h" :

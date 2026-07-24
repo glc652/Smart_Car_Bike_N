@@ -1,0 +1,148 @@
+zf_driver_dma.o :	../libraries/zf_driver/zf_driver_dma.c
+../libraries/zf_driver/zf_driver_dma.c :
+zf_driver_dma.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\\Dma\\Dma\IfxDma_Dma.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\\Dma\\Dma\IfxDma_Dma.h" :
+zf_driver_dma.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\_Impl\IfxDma_cfg.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\_Impl\IfxDma_cfg.h" :
+zf_driver_dma.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\Ifx_Types.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\Ifx_Types.h" :
+zf_driver_dma.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\Infra\\Platform\Tricore\Compilers\Compilers.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\Infra\\Platform\Tricore\Compilers\Compilers.h" :
+zf_driver_dma.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\Configurations\Ifx_Cfg.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\Configurations\Ifx_Cfg.h" :
+zf_driver_dma.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\Infra\\Platform\Tricore\Compilers\CompilerTasking.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\Infra\\Platform\Tricore\Compilers\CompilerTasking.h" :
+zf_driver_dma.o :	"D:\ADS\AURIX-Studio-1.10.24\tools\Compilers\Tasking_1.1r8\ctc\include\stddef.h"
+"D:\ADS\AURIX-Studio-1.10.24\tools\Compilers\Tasking_1.1r8\ctc\include\stddef.h" :
+zf_driver_dma.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\Platform_Types.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\Platform_Types.h" :
+zf_driver_dma.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\Ifx_TypesTasking.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\Ifx_TypesTasking.h" :
+zf_driver_dma.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Dma\Std\IfxDma.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Dma\Std\IfxDma.h" :
+zf_driver_dma.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxDma_bf.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxDma_bf.h" :
+zf_driver_dma.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\IfxCpu_Intrinsics.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\IfxCpu_Intrinsics.h" :
+zf_driver_dma.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\Ifx_Types.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\Ifx_Types.h" :
+zf_driver_dma.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\IfxCpu_IntrinsicsTasking.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\IfxCpu_IntrinsicsTasking.h" :
+zf_driver_dma.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\Ifx_Types.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\Ifx_Types.h" :
+zf_driver_dma.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxDma_reg.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxDma_reg.h" :
+zf_driver_dma.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxDma_regdef.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxDma_regdef.h" :
+zf_driver_dma.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\Ifx_TypesReg.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\Ifx_TypesReg.h" :
+zf_driver_dma.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Src\Std\IfxSrc.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Src\Std\IfxSrc.h" :
+zf_driver_dma.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\_Impl\IfxSrc_cfg.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\_Impl\IfxSrc_cfg.h" :
+zf_driver_dma.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\IfxCpu_Intrinsics.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\IfxCpu_Intrinsics.h" :
+zf_driver_dma.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxSrc_reg.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxSrc_reg.h" :
+zf_driver_dma.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxSrc_regdef.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxSrc_regdef.h" :
+zf_driver_dma.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Scu\Std\IfxScuWdt.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Scu\Std\IfxScuWdt.h" :
+zf_driver_dma.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\_Impl\IfxScu_cfg.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\_Impl\IfxScu_cfg.h" :
+zf_driver_dma.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxScu_bf.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxScu_bf.h" :
+zf_driver_dma.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxFlash_bf.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxFlash_bf.h" :
+zf_driver_dma.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxScu_reg.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxScu_reg.h" :
+zf_driver_dma.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxScu_regdef.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxScu_regdef.h" :
+zf_driver_dma.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Scu\Std\IfxScuWdt.asm.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Scu\Std\IfxScuWdt.asm.h" :
+zf_driver_dma.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\IfxCpu_Intrinsics.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\IfxCpu_Intrinsics.h" :
+zf_driver_dma.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Scu\Std\IfxScuCcu.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Scu\Std\IfxScuCcu.h" :
+zf_driver_dma.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Scu\Std\IfxScuWdt.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Scu\Std\IfxScuWdt.h" :
+zf_driver_dma.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\IfxCpu.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\IfxCpu.h" :
+zf_driver_dma.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\_Impl\IfxCpu_cfg.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\_Impl\IfxCpu_cfg.h" :
+zf_driver_dma.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\IfxCpu_Intrinsics.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\IfxCpu_Intrinsics.h" :
+zf_driver_dma.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxCpu_reg.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxCpu_reg.h" :
+zf_driver_dma.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxCpu_regdef.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxCpu_regdef.h" :
+zf_driver_dma.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxStm_reg.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxStm_reg.h" :
+zf_driver_dma.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxStm_regdef.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxStm_regdef.h" :
+zf_driver_dma.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\Service\\CpuGeneric\_Utilities\Ifx_Assert.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\Service\\CpuGeneric\_Utilities\Ifx_Assert.h" :
+zf_driver_dma.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Scu\Std\IfxScuWdt.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Scu\Std\IfxScuWdt.h" :
+zf_driver_dma.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Scu\Std\IfxScuCcu.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Scu\Std\IfxScuCcu.h" :
+zf_driver_dma.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxFlash_reg.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxFlash_reg.h" :
+zf_driver_dma.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxFlash_regdef.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxFlash_regdef.h" :
+zf_driver_dma.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\_PinMap\IfxScu_PinMap.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\_PinMap\IfxScu_PinMap.h" :
+zf_driver_dma.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Port\Std\IfxPort.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Port\Std\IfxPort.h" :
+zf_driver_dma.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\_Impl\IfxPort_cfg.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\_Impl\IfxPort_cfg.h" :
+zf_driver_dma.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\IfxCpu_Intrinsics.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\IfxCpu_Intrinsics.h" :
+zf_driver_dma.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxPort_reg.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxPort_reg.h" :
+zf_driver_dma.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxPort_regdef.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxPort_regdef.h" :
+zf_driver_dma.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Scu\Std\IfxScuWdt.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Scu\Std\IfxScuWdt.h" :
+zf_driver_dma.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\IfxCpu.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\IfxCpu.h" :
+zf_driver_dma.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\\Scu\\Std\IfxScuEru.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\\Scu\\Std\IfxScuEru.h" :
+zf_driver_dma.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\IfxCpu.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\IfxCpu.h" :
+zf_driver_dma.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\_PinMap\IfxScu_PinMap.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\_PinMap\IfxScu_PinMap.h" :
+zf_driver_dma.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\user\isr_config.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\user\isr_config.h" :
+zf_driver_dma.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\zf_common\zf_common_debug.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\zf_common\zf_common_debug.h" :
+zf_driver_dma.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\zf_common\zf_common_typedef.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\zf_common\zf_common_typedef.h" :
+zf_driver_dma.o :	"D:\ADS\AURIX-Studio-1.10.24\tools\Compilers\Tasking_1.1r8\ctc\include\math.h"
+"D:\ADS\AURIX-Studio-1.10.24\tools\Compilers\Tasking_1.1r8\ctc\include\math.h" :
+zf_driver_dma.o :	"D:\ADS\AURIX-Studio-1.10.24\tools\Compilers\Tasking_1.1r8\ctc\include\typeinfo.h"
+"D:\ADS\AURIX-Studio-1.10.24\tools\Compilers\Tasking_1.1r8\ctc\include\typeinfo.h" :
+zf_driver_dma.o :	"D:\ADS\AURIX-Studio-1.10.24\tools\Compilers\Tasking_1.1r8\ctc\include\stdio.h"
+"D:\ADS\AURIX-Studio-1.10.24\tools\Compilers\Tasking_1.1r8\ctc\include\stdio.h" :
+zf_driver_dma.o :	"D:\ADS\AURIX-Studio-1.10.24\tools\Compilers\Tasking_1.1r8\ctc\include\stdarg.h"
+"D:\ADS\AURIX-Studio-1.10.24\tools\Compilers\Tasking_1.1r8\ctc\include\stdarg.h" :
+zf_driver_dma.o :	"D:\ADS\AURIX-Studio-1.10.24\tools\Compilers\Tasking_1.1r8\ctc\include\stdint.h"
+"D:\ADS\AURIX-Studio-1.10.24\tools\Compilers\Tasking_1.1r8\ctc\include\stdint.h" :
+zf_driver_dma.o :	"D:\ADS\AURIX-Studio-1.10.24\tools\Compilers\Tasking_1.1r8\ctc\include\string.h"
+"D:\ADS\AURIX-Studio-1.10.24\tools\Compilers\Tasking_1.1r8\ctc\include\string.h" :
+zf_driver_dma.o :	"D:\ADS\AURIX-Studio-1.10.24\tools\Compilers\Tasking_1.1r8\ctc\include\stdlib.h"
+"D:\ADS\AURIX-Studio-1.10.24\tools\Compilers\Tasking_1.1r8\ctc\include\stdlib.h" :
+zf_driver_dma.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\\Cpu\\Std\ifx_types.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\\Cpu\\Std\ifx_types.h" :
+zf_driver_dma.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\\Cpu\\Std\PLATFORM_TYPES.H"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\\Cpu\\Std\PLATFORM_TYPES.H" :
+zf_driver_dma.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\zf_common\zf_common_interrupt.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\zf_common\zf_common_interrupt.h" :
+zf_driver_dma.o :	..\libraries\zf_driver\zf_driver_dma.h
+..\libraries\zf_driver\zf_driver_dma.h :
+zf_driver_dma.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\\Dma\\Std\IfxDma.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\\Dma\\Std\IfxDma.h" :
+zf_driver_dma.o :	..\libraries\zf_driver\zf_driver_exti.h
+..\libraries\zf_driver\zf_driver_exti.h :
+zf_driver_dma.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\\Scu\\Std\IfxScuEru.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E3_motor\\E3_06_servo_control_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\\Scu\\Std\IfxScuEru.h" :

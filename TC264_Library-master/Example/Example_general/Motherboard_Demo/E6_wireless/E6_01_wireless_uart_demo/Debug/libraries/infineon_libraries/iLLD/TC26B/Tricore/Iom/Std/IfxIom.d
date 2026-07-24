@@ -1,0 +1,96 @@
+IfxIom.o :	../libraries/infineon_libraries/iLLD/TC26B/Tricore/Iom/Std/IfxIom.c
+../libraries/infineon_libraries/iLLD/TC26B/Tricore/Iom/Std/IfxIom.c :
+IfxIom.o :	..\libraries\infineon_libraries\iLLD\TC26B\Tricore\Iom\Std\IfxIom.h
+..\libraries\infineon_libraries\iLLD\TC26B\Tricore\Iom\Std\IfxIom.h :
+IfxIom.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\_Impl\IfxIom_cfg.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\_Impl\IfxIom_cfg.h" :
+IfxIom.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxIom_reg.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxIom_reg.h" :
+IfxIom.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxIom_regdef.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxIom_regdef.h" :
+IfxIom.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\Ifx_TypesReg.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\Ifx_TypesReg.h" :
+IfxIom.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Scu\Std\IfxScuWdt.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Scu\Std\IfxScuWdt.h" :
+IfxIom.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\_Impl\IfxScu_cfg.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\_Impl\IfxScu_cfg.h" :
+IfxIom.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\Configurations\Ifx_Cfg.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\Configurations\Ifx_Cfg.h" :
+IfxIom.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxScu_bf.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxScu_bf.h" :
+IfxIom.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxFlash_bf.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxFlash_bf.h" :
+IfxIom.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\Ifx_Types.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\Ifx_Types.h" :
+IfxIom.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\Infra\\Platform\Tricore\Compilers\Compilers.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\Infra\\Platform\Tricore\Compilers\Compilers.h" :
+IfxIom.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\Infra\\Platform\Tricore\Compilers\CompilerTasking.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\Infra\\Platform\Tricore\Compilers\CompilerTasking.h" :
+IfxIom.o :	"D:\ADS\AURIX-Studio-1.10.24\tools\Compilers\Tasking_1.1r8\ctc\include\stddef.h"
+"D:\ADS\AURIX-Studio-1.10.24\tools\Compilers\Tasking_1.1r8\ctc\include\stddef.h" :
+IfxIom.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\Platform_Types.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\Platform_Types.h" :
+IfxIom.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\Ifx_TypesTasking.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\Ifx_TypesTasking.h" :
+IfxIom.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxScu_reg.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxScu_reg.h" :
+IfxIom.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxScu_regdef.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxScu_regdef.h" :
+IfxIom.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Scu\Std\IfxScuWdt.asm.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Scu\Std\IfxScuWdt.asm.h" :
+IfxIom.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\IfxCpu_Intrinsics.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\IfxCpu_Intrinsics.h" :
+IfxIom.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\Ifx_Types.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\Ifx_Types.h" :
+IfxIom.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\IfxCpu_IntrinsicsTasking.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\IfxCpu_IntrinsicsTasking.h" :
+IfxIom.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\Ifx_Types.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\Ifx_Types.h" :
+IfxIom.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\IfxCpu_Intrinsics.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\IfxCpu_Intrinsics.h" :
+IfxIom.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Scu\Std\IfxScuCcu.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Scu\Std\IfxScuCcu.h" :
+IfxIom.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Scu\Std\IfxScuWdt.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Scu\Std\IfxScuWdt.h" :
+IfxIom.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\IfxCpu.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\IfxCpu.h" :
+IfxIom.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\_Impl\IfxCpu_cfg.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\_Impl\IfxCpu_cfg.h" :
+IfxIom.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\IfxCpu_Intrinsics.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\IfxCpu_Intrinsics.h" :
+IfxIom.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxCpu_reg.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxCpu_reg.h" :
+IfxIom.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxCpu_regdef.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxCpu_regdef.h" :
+IfxIom.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxSrc_reg.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxSrc_reg.h" :
+IfxIom.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxSrc_regdef.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxSrc_regdef.h" :
+IfxIom.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxStm_reg.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxStm_reg.h" :
+IfxIom.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxStm_regdef.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxStm_regdef.h" :
+IfxIom.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\Service\\CpuGeneric\_Utilities\Ifx_Assert.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\Service\\CpuGeneric\_Utilities\Ifx_Assert.h" :
+IfxIom.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Scu\Std\IfxScuWdt.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Scu\Std\IfxScuWdt.h" :
+IfxIom.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Scu\Std\IfxScuCcu.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Scu\Std\IfxScuCcu.h" :
+IfxIom.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxFlash_reg.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxFlash_reg.h" :
+IfxIom.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxFlash_regdef.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxFlash_regdef.h" :
+IfxIom.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\_PinMap\IfxScu_PinMap.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\_PinMap\IfxScu_PinMap.h" :
+IfxIom.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Port\Std\IfxPort.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Port\Std\IfxPort.h" :
+IfxIom.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\_Impl\IfxPort_cfg.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\_Impl\IfxPort_cfg.h" :
+IfxIom.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\IfxCpu_Intrinsics.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Cpu\Std\IfxCpu_Intrinsics.h" :
+IfxIom.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxPort_reg.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxPort_reg.h" :
+IfxIom.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxPort_regdef.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\Infra\\Sfr\\TC26B\\_Reg\IfxPort_regdef.h" :
+IfxIom.o :	"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Scu\Std\IfxScuWdt.h"
+"E:\\Smart_Car_2026\\TC264_Library-master\\Example\\Example_general\\Motherboard_Demo\\E6_wireless\\E6_01_wireless_uart_demo\\libraries\\infineon_libraries\\iLLD\\TC26B\\Tricore\Scu\Std\IfxScuWdt.h" :
